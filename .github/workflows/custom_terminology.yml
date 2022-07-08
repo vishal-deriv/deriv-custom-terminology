@@ -1,14 +1,14 @@
-name: Do Something That Needs Scheduled
+name: Trigger workflow update on change of terminology
 on:
   repository_dispatch:
     types: terminology_updated
   schedule:
     - cron:  '*/5 * * * *'
 jobs:
-  build:
-    name: Run Some Scheduled Thing
-    uses: DamianReeves/write-file-action@v1.0
+  - name: Trigger workflow update on change of terminology
+    uses: devops-actions/json-to-file@v1.0.0
     with:
-      path: ${{ env.home}}/terminology.csv
-      contents: ${{ github.event.client_payload.terminology }}
-      write-mode: overwrite
+      # The json you want to store
+      json: ${{ github.event.client_payload.terminology }}
+      # The filename you want to store the json in
+      filename: terminology.csv
