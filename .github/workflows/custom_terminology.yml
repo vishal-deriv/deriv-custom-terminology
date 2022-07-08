@@ -9,7 +9,5 @@ jobs:
     name: Run Some Scheduled Thing
     runs-on: ubuntu-latest
     steps:
-      - name: Do Something
-        run: echo Doing Something2...
-      - name: Do Something Based On Triggered Event Data
-        run: 'echo "Event text: ${{ github.event.client_payload.text }}"'
+      - run: 'echo "field: ${{ github.event.client_payload.foo }}"'
+      - run: 'echo "payload: ${{ toJson(github.event.client_payload) }}"'
