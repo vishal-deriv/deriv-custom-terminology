@@ -9,5 +9,4 @@ jobs:
     name: Run Some Scheduled Thing
     runs-on: ubuntu-latest
     steps:
-      - run: 'echo "field: ${{ github.event.client_payload.foo }}"'
-      - run: 'echo "payload: ${{ toJson(github.event.client_payload) }}"'
+      - run: 'echo "termonology: ${{ github.event.client_payload.terminology }}"'
