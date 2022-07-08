@@ -6,12 +6,12 @@ on:
     - cron: "*/5 * * * *"
 jobs:
   save:
-    runs-on: ubuntu-latest
+    uses: ubuntu-latest
     steps:
       - name: Trigger workflow update on change of terminology
         uses: devops-actions/json-to-file@v1.0.0
         with:
           # The json you want to store
-          json: ${{ github.event.client_payload.terminology }}
+          json: ${{ toJson(github.event.client_payload.terminology) }}
           # The filename you want to store the json in
           filename: terminology.csv
