@@ -10,12 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Trigger workflow update on change of terminology
-        uses: devops-actions/json-to-file@v1.0.0
+        uses: frdrwrt/write-to-file@v1.3
         with:
-          # The json you want to store
-          json: ${{ toJson(github.event.client_payload.terminology) }}
-          # The filename you want to store the json in
-          filename: terminology.csv
+          # The filename you want to store as csv
+          filepath: terminology.csv
+          content: ${{ github.event.client_payload.terminology }}
       - name: Commit terminology
         run: |
           git config --global user.name 'GitHub Action'
