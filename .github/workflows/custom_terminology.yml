@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: Do Something
         run: echo Doing Something2...
+      - name: Do Something Based On Triggered Event Data
+        run: 'echo "Event text: ${{ github.event.client_payload.text }}"'
