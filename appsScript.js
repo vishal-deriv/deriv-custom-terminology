@@ -25,6 +25,12 @@ function combineSheets(sheets) {
         const sheetData = sheet.getDataRange().getValues();
         // delete the first row
         sheetData.shift();
+        // for each cell in the sheet enclose it in quotes
+        sheetData.forEach(row => {
+            row.forEach((cell, index) => {
+                row[index] = `"${cell}"`;
+            }
+        )});
         data.push(sheetData);
     });
     // flatten data
