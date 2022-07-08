@@ -1,7 +1,7 @@
 name: Do Something That Needs Scheduled
 on:
   repository_dispatch:
-    types: do-something
+    types: terminology_updated
   schedule:
     - cron:  '*/5 * * * *'
 jobs:
