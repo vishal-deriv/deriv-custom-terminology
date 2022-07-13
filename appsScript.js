@@ -8,6 +8,7 @@ const languageCodes = {
     French: 'fr',
     Spanish: 'es',
     Indonesian: 'id',
+    Vietnamese: 'vi',
 } 
 
 // get first row of first sheet
@@ -28,7 +29,14 @@ function combineSheets(sheets) {
         // for each cell in the sheet enclose it in quotes
         sheetData.forEach(row => {
             row.forEach((cell, index) => {
-                row[index] = `"${cell}"`;
+                // row[index] = `"${cell}"`; if cell contains a comma
+                if (cell.includes(',')) {
+                    row[index] = `"${cell}"`;
+                }
+                // if cell is empty, replace with "Not translated"
+                if (cell === '') {
+                    row[index] = '"Not translated"';
+                }
             }
         )});
         data.push(sheetData);
