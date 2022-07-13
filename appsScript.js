@@ -33,8 +33,8 @@ function combineSheets(sheets) {
                 if (cell.includes(',')) {
                     row[index] = `"${cell}"`;
                 }
-                // if cell is empty, replace with "Not translated"
-                if (cell === '') {
+                // if trimmed cell is empty string, replace with "Not translated"
+                if (cell.trim() === '') {
                     row[index] = '"Not translated"';
                 }
             }
