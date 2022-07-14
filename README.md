@@ -1,2 +1,1 @@
-# custom-terminology
-custom-terminology
+# Deriv Custom Terminology and Translation Automation Workflows
