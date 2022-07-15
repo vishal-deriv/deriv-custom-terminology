@@ -33,9 +33,9 @@ function combineSheets(sheets) {
                 if (cell.includes(',')) {
                     row[index] = `"${cell}"`;
                 }
-                // remove white space or tab from cell and check if it is empty and set Not translated if so
+                // remove white space or tab from cell and check if it is empty and set to first cell of the row
                 if (cell.trim() === '') {
-                    row[index] = 'Not translated';
+                    row[index] = row[0];
                 }
             }
         )});
