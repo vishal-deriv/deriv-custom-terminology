@@ -29,13 +29,19 @@ function combineSheets(sheets) {
         sheetData.shift();
         // for each cell in the sheet enclose it in quotes
         sheetData.forEach(row => {
+            if (row.length < languageCodesRow.length) {
+                const emptyCells = languageCodesRow.length - row.length;
+                for (let i = 0; i < emptyCells; i++) {
+                    row.push(row[0]);
+                }
+            }
             row.forEach((cell, index) => {
                 // row[index] = `"${cell}"`; if cell contains a comma
                 if (cell.includes(',')) {
                     row[index] = `"${cell}"`;
                 }
-                // remove white space or tab from cell and check if it is empty or undefined and set to first cell of the row
-                if (cell.trim() === '' || typeof(cell) === undefined) {
+                // remove white space or tab from cell and check if it and set to first cell of the row
+                if (cell.trim() === '') {
                     row[index] = row[0];
                 }
             }
