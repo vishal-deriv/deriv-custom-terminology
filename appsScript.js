@@ -34,8 +34,8 @@ function combineSheets(sheets) {
                 if (cell.includes(',')) {
                     row[index] = `"${cell}"`;
                 }
-                // remove white space or tab from cell and check if it is empty and set to first cell of the row
-                if (cell.trim() === '') {
+                // remove white space or tab from cell and check if it is empty or undefined and set to first cell of the row
+                if (cell.trim() === '' || typeof(cell) === undefined) {
                     row[index] = row[0];
                 }
             }
