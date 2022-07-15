@@ -23,7 +23,11 @@ jobs:
       - name: Use aws cli to import termonology
         run: |
           aws translate delete-terminology \
-          --name MyTestTerminology
+          --name DerivCustomTerminology \
+          --description "Deriv Custom Terminology Dictionary" \
+          --merge-strategy OVERWRITE \
+          --data-file fileb://terminology.csv \
+          --terminology-data Format=CSV
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
