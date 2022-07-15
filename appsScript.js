@@ -65,7 +65,7 @@ function prepareTerminologyCSV() {
 // and the following -d '{"event_type": "translation_updated"}'
 function notifyGithub() {
     const terminlogy = prepareTerminologyCSV();
-    const url = 'https://api.github.com/repos/deriv-pocs/custom-terminology/dispatches';
+    const url = 'https://api.github.com/repos/binary-com/deriv-custom-terminology/dispatches';
     // get github token from GITHUB_TOKEN script property
     const token = PropertiesService.getScriptProperties().getProperty('GITHUB_TOKEN');
     const headers = {
