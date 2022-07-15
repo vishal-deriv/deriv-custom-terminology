@@ -13,13 +13,13 @@ Affiliate ,Afiliados,Affilié,Afiliado,Afiliasi,Affiliate ,Associato
 Bear market ,Bear Market,Marché baissier,Mercado bajista,Market bear,Bear market ,Mercato ribassista
 Bid price ,Preço Bid,Prix de l'offre ,Precio de compra,Harga bid,Bid price ,Prezzo dell'offerta
 Bull market,Bull Market,Marché haussier,Mercado alcista,Market bull,Bull market,Mercato rialzista
-Bullish,Bullish,Haussier,Alcista,Bullish,Bullish,Bullish
-Bearish,Bearish,Baissier,Bajista,Bearish,Bearish,Bearish
-Opening price,Preço de abertura,Prix d'ouverture,Precio de apertura,Harga pembukaan,Opening price,Opening price
-Closing price,Preço de fechamento,Prix de clôture,Precio de cierre,Harga penutupan,Closing price,Closing price
-Counterparty ,Contraparte,Contrepartie,Contraparte,Mitra pengimbang,Counterparty ,Counterparty 
-Ask / Offer price,Preços de venda / oferta,Prix de vente / offre,Precio de venta / oferta,Harga permintaan/penawaran,Ask / Offer price,Ask / Offer price
-Stake,Entrada,Investissement,Inversión,Modal,Stake,Stake
+Bullish,Bullish,Haussier,Alcista,Bullish,Bullish,Rialzista
+Bearish,Bearish,Baissier,Bajista,Bearish,Bearish,Ribassista
+Opening price,Preço de abertura,Prix d'ouverture,Precio de apertura,Harga pembukaan,Opening price,Prezzo di apertura
+Closing price,Preço de fechamento,Prix de clôture,Precio de cierre,Harga penutupan,Closing price,Prezzo di chiusura
+Counterparty ,Contraparte,Contrepartie,Contraparte,Mitra pengimbang,Counterparty ,Controparte
+Ask / Offer price,Preços de venda / oferta,Prix de vente / offre,Precio de venta / oferta,Harga permintaan/penawaran,Ask / Offer price,Prezzo di Acquista / Offerta
+Stake,Entrada,Investissement,Inversión,Modal,Stake,Puntata
 Payout,Retorno,Paiement,Pago,Hasil,Payout,Payout
 Spot price,Preço do ponto,Prix spot,Precio spot,Harga spot,Spot price,Spot price
 Entry spot,Preço de entrada,Spot d'entrée,Spot de entrada,Spot awal,Entry spot,Entry spot
@@ -211,4 +211,4 @@ Proof of identity (POI),Comprovante de identidade (POI),Document d'identité (PO
 Proof of address (POA),Comprovante de endereço (POA),Justificatif de domicile (POA),Prueba de dirección,Bukti alamat (POA),Proof of address (POA)
 Proof of wealth,Comprovante de renda,Justificatif de solvabilité,Prueba de solvencia,Bukti kekayaan,Proof of wealth
 Enhanced Due Diligence (EDD),Diligência devida aprimorada (EDD),Diligence renforcée (EDD),Debida diligencia reforzada,Uji Tuntas yang Ditingkatkan (EDD),Enhanced Due Diligence (EDD)
-Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente,Uji Tuntas Pelanggan (CDD),update
+Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente,Uji Tuntas Pelanggan (CDD),Customer Due Diligence (CDD)
