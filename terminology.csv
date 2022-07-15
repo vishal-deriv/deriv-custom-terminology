@@ -1,18 +1,18 @@
-en,pt,fr,es,id,vi,
+en,pt,fr,es,id,vi,it
 Derivative options ,Opções derivadas,Options dérivatives,Opciones derivadas,Opsi derivatif,Derivative options ,Opzioni derivate
 Derivative ,Derivado,Derivé,Derivados,Derivatif,Derivative ,Derivati
 Synthetic indices,Índices Sintéticos,Indices synthétiques,Índices sintéticos,Indeks Sintetis,Synthetic indices,Indici Sintetici
 Options / Binary options / Digital options,Opções / Opções Binárias / Opções Digitais,Options / Options binaires / Options digitales,Opciones / Opciones binarias / Opciones digitales,Opsi/Opsi Binary/Opsi Digital,Options / Binary options / Digital options,Opzioni / Opzioni binarie / Opzioni digitali
 Multipliers,Multiplicadores,Multiplicateurs,Multiplicadores,Multiplier,Multipliers,Moltiplicatori
 Margin,Margem,Marge,Margen,Margin,Margin,Margine
-Margin requirement,Requerimento de margem,Marge requise,Requisito de margen,Persyaratan margin,Margin requirement,Margin requirement
-Contract for difference (CFD),Contrato por diferença ,Contrat sur la différence,Contrato por diferencia (CFD),Kontrak untuk perbedaan (DFD),Contract for difference (CFD),Contract for difference (CFD)
+Margin requirement,Requerimento de margem,Marge requise,Requisito de margen,Persyaratan margin,Margin requirement,Requisito di margine
+Contract for difference (CFD),Contrato por diferença ,Contrat sur la différence,Contrato por diferencia (CFD),Kontrak untuk perbedaan (DFD),Contract for difference (CFD),Contratto per differenza
 Tick,Tick,Tick,Tick,Tik,Tick,Tick
 Spread,Spread,Spread,Spread,Spread,Spread,Spread
-Affiliate ,Afiliados,Affilié,Afiliado,Afiliasi,Affiliate ,Affiliate 
-Bear market ,Bear Market,Marché baissier,Mercado bajista,Market bear,Bear market ,Bear market 
-Bid price ,Preço Bid,Prix de l'offre ,Precio de oferta,Harga bid,Bid price ,Bid price 
-Bull market,Bull Market,Marché haussier,Mercado alcista,Market bull,Bull market,Bull market
+Affiliate ,Afiliados,Affilié,Afiliado,Afiliasi,Affiliate ,Associato
+Bear market ,Bear Market,Marché baissier,Mercado bajista,Market bear,Bear market ,Mercato ribassista
+Bid price ,Preço Bid,Prix de l'offre ,Precio de compra,Harga bid,Bid price ,Prezzo dell'offerta
+Bull market,Bull Market,Marché haussier,Mercado alcista,Market bull,Bull market,Mercato rialzista
 Bullish,Bullish,Haussier,Alcista,Bullish,Bullish,Bullish
 Bearish,Bearish,Baissier,Bajista,Bearish,Bearish,Bearish
 Opening price,Preço de abertura,Prix d'ouverture,Precio de apertura,Harga pembukaan,Opening price,Opening price
@@ -211,4 +211,4 @@ Proof of identity (POI),Comprovante de identidade (POI),Document d'identité (PO
 Proof of address (POA),Comprovante de endereço (POA),Justificatif de domicile (POA),Prueba de dirección,Bukti alamat (POA),Proof of address (POA)
 Proof of wealth,Comprovante de renda,Justificatif de solvabilité,Prueba de solvencia,Bukti kekayaan,Proof of wealth
 Enhanced Due Diligence (EDD),Diligência devida aprimorada (EDD),Diligence renforcée (EDD),Debida diligencia reforzada,Uji Tuntas yang Ditingkatkan (EDD),Enhanced Due Diligence (EDD)
-Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente,Uji Tuntas Pelanggan (CDD),Update
+Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente,Uji Tuntas Pelanggan (CDD),Customer Due Diligence (CDD)
