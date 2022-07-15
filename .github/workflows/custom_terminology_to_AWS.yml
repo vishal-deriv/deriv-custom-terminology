@@ -22,7 +22,7 @@ jobs:
           git push
       - name: Use aws cli to import termonology
         run: |
-          aws translate delete-terminology \
+          aws translate import-terminology \
           --name DerivCustomTerminology \
           --description "Deriv Custom Terminology Dictionary" \
           --merge-strategy OVERWRITE \
