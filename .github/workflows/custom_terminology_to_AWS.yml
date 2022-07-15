@@ -15,4 +15,4 @@ jobs:
           content: ${{ github.event.client_payload.terminology }}
       - name: Use aws cli to import termonology
         run: |
-          aws translate list-terminologies --no-paginate --output text
+          aws translate list-terminologies --no-paginate --output-text
