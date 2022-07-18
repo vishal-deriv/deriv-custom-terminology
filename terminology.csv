@@ -66,149 +66,149 @@ Leverage,Alavancagem,Levier,Apalancamiento,Leverage,Leverage,Leva finanziaria
 Liquidity provider (LP),Provedor de liquidez (LP),Animateur de marché (LP),Proveedor de liquidez (PL),Penyedia likuiditas (LP),Liquidity provider (LP),Fornitore di liquidità
 Minor pairs,Pares secundários,Paires mineures,Pares menores,Pasangan minor,Minor pairs,Coppie minori
 Basket indices,Cesta de índices,Panier d'indices,Cesta de índices,Indeks basket,Basket indices,Panieri di indici
-Base currency,Moeda base,Devise de base,Moneda base,Mata uang dasar,Base currency,Base currency
-Quote currency,Moeda da cotação,Devise cotée,Moneda de cotización,Mata uang kutipan,Quote currency,Quote currency
-Barrier,Barreira,Barrière,Barrera,Barrier,Barrier,Barrier
-Duration,Duração,Durée,Duración,Durasi,Duration,Duration
+Base currency,Moeda base,Devise de base,Moneda base,Mata uang dasar,Base currency,Valuta base
+Quote currency,Moeda da cotação,Devise cotée,Moneda de cotización,Mata uang kutipan,Quote currency,Valuta della quotazione
+Barrier,Barreira,Barrière,Barrera,Barrier,Barrier,Barriera
+Duration,Duração,Durée,Duración,Durasi,Duration,Durazione
 Pip,Pip,Pip,Pip,Pip,Pip,Pip
-DMT5 signals,Sinais DMT5,Signaux DMT5,Señales DMT5,Sinyal DMT5,DMT5 signals,DMT5 signals
-Signal provider,Provedor de sinal,Fournisseur de signaux,Proveedor de señales,Penyedia sinyal,Signal provider,Signal provider
-Signal subscriber,Assinante de sinal,Souscripteur du signal,Suscriptor de señal,Pelanggan sinyal,Signal subscriber,Signal subscriber
-Go long,Vá de long,Aller long,Ir en largo,Beli,Go long,Go long
-Go short,Vá de short,Aller court,Ir en corto,Jual,Go short,Go short
-Demo account,Conta Demo,Compte Démo,Cuenta demo,Akun demo,Demo account,Demo account
-Real account,Conta Real,Compte Réel,Cuenta real,Akun riil,Real account,Real account
+DMT5 signals,Sinais DMT5,Signaux DMT5,Señales DMT5,Sinyal DMT5,DMT5 signals,Segnali DMT5
+Signal provider,Provedor de sinal,Fournisseur de signaux,Proveedor de señales,Penyedia sinyal,Signal provider,Fornitore di segnali
+Signal subscriber,Assinante de sinal,Souscripteur du signal,Suscriptor de señal,Pelanggan sinyal,Signal subscriber,Iscritto ai segnali
+Go long,Vá de long,Aller long,Ir en largo,Beli,Go long,Aprire una posizione long
+Go short,Vá de short,Aller court,Ir en corto,Jual,Go short,Aprire una posizione short
+Demo account,Conta Demo,Compte Démo,Cuenta demo,Akun demo,Demo account,Conto demo
+Real account,Conta Real,Compte Réel,Cuenta real,Akun riil,Real account,Conto reale
 Asset,Ativo,Actif,Activo,Aset,Asset,Asset
-Sell price,Preço de venda,Prix de vente,Precio de venta,Harga jual,Sell price,Sell price
-Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga market,Market price,Market price
-Buy price,Preço de compra,Prix d'achat,Precio de compra,Harga beli,Buy price,Buy price
+Sell price,Preço de venda,Prix de vente,Precio de venta,Harga jual,Sell price,Prezzo di vendita
+Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga market,Market price,Prezzo di mercato
+Buy price,Preço de compra,Prix d'achat,Precio de compra,Harga beli,Buy price,Prezzo di acquisto
 Equity,Capital,Action,Capital,Ekuitas,Equity,Equity
-Open positions,Posições abertas,Positions ouvertes,Posiciones abiertas,Posisi berjalan,Open positions,Open positions
-Liquidity risks,Risco de liquidez,Risques de liquidité,Riesgos de liquidez,Risiko likuiditas,Liquidity risks,Liquidity risks
-Underlying asset ,Ativo subjacente,Actif sous-jacent ,Activo subyacente,Aset dasar,Underlying asset ,Underlying asset 
-Up/Down,Acima/Abaixo,Hausse/Baisse,Arriba/Abajo,Up/Down,Up/Down,Up/Down
-In/Out,Dentro/Fora,In/Out,Dentro/Fuera,In/Out,In/Out,In/Out
-Digits,Dígitos,Chiffres,Dígitos,Digit,Digits,Digits
+Open positions,Posições abertas,Positions ouvertes,Posiciones abiertas,Posisi berjalan,Open positions,Posizione aperte
+Liquidity risks,Risco de liquidez,Risques de liquidité,Riesgos de liquidez,Risiko likuiditas,Liquidity risks,Rischi di liquidità
+Underlying asset ,Ativo subjacente,Actif sous-jacent ,Activo subyacente,Aset dasar,Underlying asset ,Asset sottostante
+Up/Down,Acima/Abaixo,Hausse/Baisse,Arriba/Abajo,Up/Down,Up/Down,Alto/Basso
+In/Out,Dentro/Fora,In/Out,Dentro/Fuera,In/Out,In/Out,Dentro/Fuori
+Digits,Dígitos,Chiffres,Dígitos,Digit,Digits,Cifre
 Reset Call/Reset Put,Redefinir Compra/Redefinir Venda,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put
-High/Low Ticks,Ticks Superior/Inferior,Ticks Haut/Bas,Ticks altos/bajos,High/Low Tik,High/Low Ticks,High/Low Ticks
-Touch/No Touch,Toca/Não Toca,Touche/Ne Touche Pas,Toca/No Toca,Touch/No Touch,Touch/No Touch,Touch/No Touch
-Trading platform,Plataforma de negociação,Plateforme de trading,Plataforma de operaciones,Touch/No Touch,Trading platform,Trading platform
-Market,Mercado,Marché,Mercado,Pasar,Market,Market
-Stock indices,Índices de ações,Indices boursiers,Índices bursátiles,Indeks saham,Stock indices,Stock indices
-Trade type,Tipo de negociação,Type de trade,Tipo de operación,Jenis kontrak,Trade type,Trade type
-Mobile trading,Negociação pelo celular,Trading par téléphone,Trading con móvil,Trading seluler,Mobile trading,Mobile trading
-Point,Ponto,Point,Punto,Poin,Point,Point
-Fundamental analysis,Análise fundamental,Analyse fondamentale,Análisis fundamental,Analisis fundamental,Fundamental analysis,Fundamental analysis
-Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisis teknikal,Technical analysis,Technical analysis
-Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Day trading
-Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Intraday
-Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Automated trading
-Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Trade,Trade
+High/Low Ticks,Ticks Superior/Inferior,Ticks Haut/Bas,Ticks altos/bajos,High/Low Tik,High/Low Ticks,Tick alti/bassi
+Touch/No Touch,Toca/Não Toca,Touche/Ne Touche Pas,Toca/No Toca,Touch/No Touch,Touch/No Touch,Tocca/Non tocca
+Trading platform,Plataforma de negociação,Plateforme de trading,Plataforma de operaciones,Platform trading,Trading platform,Piattaforma di trading
+Market,Mercado,Marché,Mercado,Pasar,Market,Mercato
+Stock indices,Índices de ações,Indices boursiers,Índices bursátiles,Indeks saham,Stock indices,Indizi azionari
+Trade type,Tipo de negociação,Type de trade,Tipo de operación,Jenis kontrak,Trade type,Tipi di trade
+Mobile trading,Negociação pelo celular,Trading par téléphone,Trading con móvil,Trading seluler,Mobile trading,Trading mobile
+Point,Ponto,Point,Punto,Poin,Point,Punto
+Fundamental analysis,Análise fundamental,Analyse fondamentale,Análisis fundamental,Analisis fundamental,Fundamental analysis,Analisi fondamentale
+Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisis teknikal,Technical analysis,Analisi tecnico
+Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Trading giornaliero
+Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero
+Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Trading automatizzato
+Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Trade,Trade (n) / Far trading (v)
 Broker,Broker,Broker,Bróker,Broker,Broker,Broker
-Contract,Contrato,Contrat,Contrato,Kontrak,Contract,Contract
-Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga pasar,Market price,Market price
+Contract,Contrato,Contrat,Contrato,Kontrak,Contract,Contratto
+Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga pasar,Market price,Prezzo di mercato
 Altcoin,Altcoin,Altcoin,Altcoin,Altcoin,Altcoin,Altcoin
-All-time low (ATL),All-time low (ATL),All-time low (ATL),Mínimo histórico (ATL),Terendah sepanjang masa (ATL),All-time low (ATL),All-time low (ATL)
-All-time high (ATH),All-time high (ATH),All-time high (ATH),Máximo histórico (ATH),Tertinggi sepanjang masa (ATH),All-time high (ATH),All-time high (ATH)
-Virtual funds,Fundos virtuais,Fonds virtuels,Fondos virtuales,Dana virtual,Virtual funds,Virtual funds
-Payment methods,Métodos de pagamentos,Méthodes de paiement,Métodos de pago,Metode pembayaran,Payment methods,Payment methods
+All-time low (ATL),All-time low (ATL),All-time low (ATL),Mínimo histórico (ATL),Terendah sepanjang masa (ATL),All-time low (ATL),Minimo storico (ATL)
+All-time high (ATH),All-time high (ATH),All-time high (ATH),Máximo histórico (ATH),Tertinggi sepanjang masa (ATH),All-time high (ATH),Massimo storico (ATH)
+Virtual funds,Fundos virtuais,Fonds virtuels,Fondos virtuales,Dana virtual,Virtual funds,Fondi virtuali
+Payment methods,Métodos de pagamentos,Méthodes de paiement,Métodos de pago,Metode pembayaran,Payment methods,Metodi di pagamento
 Blockchain,Blockchain,Blockchain,Blockchain,Blockchain,Blockchain,Blockchain
-Verification,Verificação,Vérification,Verificación,Verifikasi,Verification,Verification
-Deal cancellation,Cancelamento da transação,Deal cancellation,Cancelación del contrato,Pembatalan transaksi,Deal cancellation,Deal cancellation
-Non-refundable fee,Taxa não reembolsável,Frais non remboursables,Tarifa no reembolsable,Biaya yang tidak dapat dikembalikan,Non-refundable fee,Non-refundable fee
-Loss,Perda,Perte,Pérdida,Rugi,Loss,Loss
-Net loss,Perda líquida,Perte nette,Pérdida neta,Kerugian bersih,Net loss,Net loss
-Volatile,Volátil,Volatile,Volátil,Fluktuatif,Volatile,Volatile
-Liquidity,Liquidez,Liquidité,Liquidez,Liquiditas,Liquidity,Liquidity
-Payment agent,Agente de pagamento,Agent de paiement,Agente de pago,Agen pembayaran,Payment agent,Payment agent
-Weighted,Ponderado,Pondéré,Ponderada,Bobot,Weighted,Weighted
-Downtrend,Downtrend,Tendance à la baisse,Tendencia a la baja,Trend menurun,Downtrend,Downtrend
+Verification,Verificação,Vérification,Verificación,Verifikasi,Verification,Verificazione
+Deal cancellation,Cancelamento da transação,Deal cancellation,Cancelación del contrato,Pembatalan transaksi,Deal cancellation,Cancellazione
+Non-refundable fee,Taxa não reembolsável,Frais non remboursables,Tarifa no reembolsable,Biaya yang tidak dapat dikembalikan,Non-refundable fee,Tassa non rimborsabile
+Loss,Perda,Perte,Pérdida,Rugi,Loss,Perdita
+Net loss,Perda líquida,Perte nette,Pérdida neta,Kerugian bersih,Net loss,Perdita netta
+Volatile,Volátil,Volatile,Volátil,Fluktuatif,Volatile,Volatilità
+Liquidity,Liquidez,Liquidité,Liquidez,Liquiditas,Liquidity,Liquidità
+Payment agent,Agente de pagamento,Agent de paiement,Agente de pago,Agen pembayaran,Payment agent,Agente di pagamento
+Weighted,Ponderado,Pondéré,Ponderada,Bobot,Weighted,Ponderata
+Downtrend,Downtrend,Tendance à la baisse,Tendencia a la baja,Trend menurun,Downtrend,Tendenza al ribasso
 Flip,Flipagem,Flipping,Cambiar,Membalik,Flip,Flip
-Resistance level,Level de resistência,Niveau de résistance,Nivel de resistencia,Tingkat resistensi,Resistance level,Resistance level
+Resistance level,Level de resistência,Niveau de résistance,Nivel de resistencia,Tingkat resistensi,Resistance level,Livello di resistenza
 Scalping,Scalping,Scalping,Scalping,Scalping,Scalping,Scalping
 Position trading,Position trade,Position trading,Position trading,Trading posisi,Position trading,Position trading
 Swing trading,Swing trade,Swing trading,Swing trading,Trading swing,Swing trading,Swing trading
-Volatility,Volatilidade,Volatilité,Volatilidad,Volatilitas,Volatility,Volatility
-Trading plan,Plano de negociação,Plan de trading,Plan de operaciones,Rencana trading,Trading plan,Trading plan
-Trading journal,Jornal de negociação,Journal de trading,Diario de operaciones,Jurnal trading,Trading journal,Trading journal
-Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Tight spreads
-Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Potential profit
-Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Initial deposit
-"Simple, flexible, reliable","Simples, flexível, confiável","Simple, flexible, fiable","Simple, flexible, fiable","Simpel, fleksibel, andal.","Simple, flexible, reliable","Simple, flexible, reliable"
-Intuitive trading platforms,Plataformas de negociação intuitivas,Des plateformes de trading intuitives,Plataformas de operación intuitivas,Platform trading intuitif,Intuitive trading platforms,Intuitive trading platforms
-Zero commission,Comissão zero,Zéro commission,Cero comisiones,Tanpa komisi,Zero commission,Zero commission
-100+ tradeable assets,Mais de 100 ativos negociáveis,Plus de 100 actifs à trader,Más de 100 activos operables,100+ aset yang dapat ditradingkan,100+ tradeable assets,100+ tradeable assets
-24/7 trading,Negociação 24/7,Trading 24h/24 7j/7,Trading 24/7,Trading 24/7,24/7 trading,24/7 trading
-Sharp prices,Preços exatos,Prix compétitifs,Precios competitivos,Harga akurat,Sharp prices,Sharp prices
-Flexible trade types,Tipos de negociação flexíveis,Types de trade flexibles,Tipos de operación flexibles,Jenis kontrak yang fleksibel ,Flexible trade types,Flexible trade types
-Fast deposits,Depósitos rápidos,Dépôts rapides,Depósitos rápidos,Deposit cepat,Fast deposits,Fast deposits
-The Deriv experience,Experimente Deriv,L'expérience Deriv,La experiencia Deriv,Pengalaman Deriv,The Deriv experience,The Deriv experience
-Automated trading at your fingertips,Negociação automatizada na ponta dos dedos,Le trading automatisé au bout de vos doigts,Operaciones automatizadas al alcance de tu mano,Trading otomatis di ujung jari Anda,Automated trading at your fingertips,Automated trading at your fingertips
-Minimise potential losses,Minimizar as perdas potenciais,Minimiser les pertes potentielles,Minimiza tus pérdidas potenciales,Minimalkan potensi kerugian,Minimise potential losses,Minimise potential losses
-"Expert, friendly support",Suporte amigável e especializado,Un soutien expert et amical,Asistencia experta y amigable,"Ahli, support yang ramah","Expert, friendly support","Expert, friendly support"
-Unlimited virtual funds,Fundos virtuais ilimitados,Fonds virtuels illimités,Fondos virtuales ilimitados,Dana virtual tanpa batas,Unlimited virtual funds,Unlimited virtual funds
-Supported payment methods,Métodos de pagamento disponíveis,Méthodes de paiement prises en charge,Métodos de pago aceptados,Metode pembayaran yang teresedia,Supported payment methods,Supported payment methods
-Increase your market exposure,Aumentar sua exposição no mercado,Augmentez votre visibilité sur le marché,Incrementa tu exposición al mercado,Tingkatkan eksposur pasar Anda.,Increase your market exposure,Increase your market exposure
-Go long or short,Vá de long ou short,Aller long ou court,Ir en largo o en corto,Beli atau jual,Go long or short,Go long or short
-Popular cryptocurrencies,Criptomoedas mais populares,Cryptomonnaies populaires,Criptomonedas populares,Mata uang kripto populer,Popular cryptocurrencies,Popular cryptocurrencies
-Anticipate price movements,Antecipar movimentos de preço,Anticiper les mouvements de prix,Anticipa los movimientos de precio,Antisipasi pergerakan harga,Anticipate price movements,Anticipate price movements
-Liquid currencies,Moedas com liquidez,Devises liquides,Monedas líquidas,Mata uang likuid,Liquid currencies,Liquid currencies
-Amplify your potential profit,Ampliando seu lucro potencial,Amplifiez votre profit potentiel,Amplifica tu ganancia potencial,Perkuat potensi keuntungan,Amplify your potential profit,Amplify your potential profit
-Fixed payout,Pagamento fixo ,Paiement fixe,Pago fijo,Hasil tetap,Fixed payout,Fixed payout
-Minimal capital investment,Investimento de capital mínimo,Investissement en capital minimal,Inversión de capital mínimo,Investasi modal minimal,Minimal capital investment,Minimal capital investment
-Predict the outcome,Prever o resultado,Prédire le résultat,Predice el resultado,Menganalisa hasil,Predict the outcome,Predict the outcome
-Earn a payout,Ganhe um pagamento,Obtenez un paiement,Obtén un pago,Dapatkan hasil,Earn a payout,Earn a payout
-Instant access,Acesso instantâneo,Accès instantané,Acceso instantáneo,Akses cepat,Instant access,Instant access
-Minimal capital requirements,Requisitos mínimos de capital,Exigences minimales en matière de capital,Requisitos de capital mínimo,Persyaratan modal minimal,Minimal capital requirements,Minimal capital requirements
-User-friendly platforms,Plataformas fáceis de usar ,Des plateformes conviviales,Plataformas fáciles de usar,Platform yang mudah digunakan,User-friendly platforms,User-friendly platforms
-Powerful chart technology,A poderosa tecnologia de gráficos,Une technologie graphique puissante,Tecnología de gráficos potente,Teknologi chart yang luar biasa,Powerful chart technology,Powerful chart technology
-Trade on world events,Negociar em eventos mundiais,Tradez sur les événements mondiaux,Opere en eventos mundiales,Bertrading pada acara dunia.,Trade on world events,Trade on world events
-Risk management,Gerenciamento de riscos,Gestion des risques,Gestión del riesgo,Manajemen risiko,Risk management,Risk management
-"Secure, responsive platform",Plataforma segura e responsiva,Plate-forme sécurisée et réactive,Plataforma segura y dinámica,Platform yang aman dan responsif,"Secure, responsive platform","Secure, responsive platform"
-Increased market exposure,Maior exposição ao mercado,Une exposition accrue au marché,Exposición al mercado aumentada,Peningkatan eksposur pasar,Increased market exposure,Increased market exposure
-Optional parameters,Parâmetros opcionais,Paramètres facultatifs,Parámetros opcionales,Parameter opsional,Optional parameters,Optional parameters
-Customise the parameters,Personalizar os parâmetros,Personnalisez les paramètres,Personaliza los parámetros,Sesuaikan parameter ,Customise the parameters,Customise the parameters
-Award-winning platforms,Plataformas premiadas,Des plateformes primées,Plataformas galardonadas,Platform pemenang penghargaan,Award-winning platforms,Award-winning platforms
-All-in-one trading platform,Plataforma de negociação tudo em um,Plateforme de trading tout-en-un,Plataforma de operación todo en uno,Platform trading CFD semua dalam satu,All-in-one trading platform,All-in-one trading platform
-Multiple asset classes,Múltiplas classes de ativos,Classes d'actifs multiples,Múltiples clases de activos,Akses ke berbagai jenis aset ,Multiple asset classes,Multiple asset classes
-Innovative trade types,Tipos de negociação inovadores,Types de trades innovants,Tipos de operación innovadores,Jenis trading inovatif,Innovative trade types,Innovative trade types
-New and experienced traders,Trader iniciantes e experientes,Traders débutants et expérimentés,Traders nuevos y expertos,Trader pemula dan berpengalaman ,New and experienced traders,New and experienced traders
-Licensed and regulated,Licenciada e regulamentada,Sous licence et réglementé,Autorizada y regulada,Berlisensi dan diatur,Licensed and regulated,Licensed and regulated
-Quick sign-up,Registro rápido,Inscription rapide,Registro rápido,Pendaftaran cepat,Quick sign-up,Quick sign-up
-Proprietary synthetic indices,Próprios índices sintéticos,Indices synthétiques exclusifs,Índices sintéticos propios,Indeks sintetis eksklusif,Proprietary synthetic indices,Proprietary synthetic indices
-Regulated industry pioneer,Pioneiro do setor regulamentado,Pionnier du secteur réglementé,Pionero regulado en la industria,Pelopor industri yang diatur,Regulated industry pioneer,Regulated industry pioneer
-Practise trading,Pratique negociações,Entraînez-vous au trading,Practica el trading,Berlatih trading,Practise trading,Practise trading
-Take control of your trades,Assuma o controle de suas negociações,Prenez le contrôle de vos trades,Toma el control de tus operaciones,Kendalikan trading Anda,Take control of your trades,Take control of your trades
-Increase your returns,Aumentar seus retornos,Augmentez vos rendements,Incrementa tu rendimiento,Tingkatkan keuntungan Anda,Increase your returns,Increase your returns
-Trade on the world markets,Negocie em mercados mundiais,Tradez sur les marchés mondiaux,Opera en los mercados mundiales,Trading di pasar dunia,Trade on the world markets,Trade on the world markets
-No swap charges,Não pague taxas de swap,Pas de frais de swap,Sin cargos swap,Tanpa biaya swap,No swap charges,No swap charges
-Multi-asset trading platform,Plataformas de negociação de múltiplos ativos,Plate-forme de trading avec de multiples actifs,Plataforma de operación con múltiples activos,Platform trading multi-aset,Multi-asset trading platform,Multi-asset trading platform
-Versatile trading experience,Experiência de negociação versátil,Une expérience de trading polyvalente,Experiencia de operación versátil,Pengalaman trading serbaguna,Versatile trading experience,Versatile trading experience
-Customise your trading environment,Personalize seu ambiente de negociação,Personnalisez votre environnement de trading,Personaliza tu entorno de operación,Sesuaikan trading Anda dengan mudah,Customise your trading environment,Customise your trading environment
-Built to fit your trading style,Construída para se adequar ao seu estilo de negociação,Conçu pour s'adapter à votre style de trading,Construido para adaptarse a tu estilo de operación,Disesuaikan dengan gaya trading Anda,Built to fit your trading style,Built to fit your trading style
-Multiple markets on a single platform,Vários mercados em uma única plataforma,Plusieurs marchés sur une seule plateforme,Múltiples mercados en una única plataforma,Berbagai pilihan pasar dalam satu platform,Multiple markets on a single platform,Multiple markets on a single platform
-Bespoke trading experience,Experiência de negociação personalizada,Expérience de trading sur mesure,Experiencia de operación a medida,Pengalaman trading yang diciptakan secara khusus,Bespoke trading experience,Bespoke trading experience
-Intuitive tools,Ferramentas intuitivas,Outils intuitifs,Herramientas intuitivas,Peralatan yang intuitif,Intuitive tools,Intuitive tools
-Feature-rich charts,Gráficos ricos em recursos,Graphiques riches en fonctionnalités,Gráficos repletos de características,Fitur charting lengkap,Feature-rich charts,Feature-rich charts
-Trading made simple,Ficou mais fácil negociar,Le trading en toute simplicité,Trading simplificado,Trading dengan mudah,Trading made simple,Trading made simple
-Flexible trade duration,Duração flexível de negociação,Durée de trading flexible,Duración de operación flexible,Durasi trading yang fleksibel,Flexible trade duration,Flexible trade duration
-Make smarter trading decisions,Tome decisões de negociação mais inteligentes,Prenez des décisions de trading plus avisées,Tome decisiones de operación inteligentes,Membuat keputusan trading yang lebih cerdas,Make smarter trading decisions,Make smarter trading decisions
-"Trade what you want, when you want","Negocie o que você quiser, quando quiser"," Tradez ce que vous voulez, quand vous le voulez","Opera lo que quieras, cuando quieras","Bertrading apa saja, kapan saja yang Anda inginkan","Trade what you want, when you want","Trade what you want, when you want"
-"Start trading whenever, wherever you want",Comece a negociar quando e onde quiser,Commencez à trader quand et où vous voulez,"Empieza a operar donde quieras, cuando quieras","Mulai bertrading kapan pun, di mana pun","Start trading whenever, wherever you want","Start trading whenever, wherever you want"
-User-friendly features,Recursos fáceis de usar,Fonctions faciles à utiliser,Características fáciles de usar,Fitur yang mudah digunakan,User-friendly features,User-friendly features
-Round the clock,24 horas por dia,Jour et nuit,A cualquier hora,Trading sepanjang waktu,Round the clock,Round the clock
-Easy access,Fácil acesso,Facile d'accès,Fácil acceso,Akses mudah,Easy access,Easy access
-Trading on the go,Negociação em qualquer lugar,Tradez en toute liberté,Trading portátil,Trading dimana saja,Trading on the go,Trading on the go
-Risk appetite,Apetite de risco,Appétit pour le risque,Apetito de riesgo,Selera risiko,Risk appetite,Risk appetite
-Trader sentiment,Sentimento do negociante,Sentiment de trader,Sentimiento de trader,Sentimen trader,Trader sentiment,Trader sentiment
-Economic slowdown,A desaceleração econômica,Ralentissement économique,Desaceleración económica,Perlambatan ekonomi,Economic slowdown,Economic slowdown
-Gain traction,Ganho de tração,Gagnez de la vitesse,Ganar tracción,Dapatkan daya tarik,Gain traction,Gain traction
-Fund your account,Deposite na sua conta,Déposez des fonds dans votre compte,Depositar fondos en tu cuenta,Danai akun Anda,Fund your account,Fund your account
-Cryptographically secure,Criptograficamente seguro,Cryptographiquement sécurisé,Criptográficamente seguro,Aman secara kriptografis,Cryptographically secure,Cryptographically secure
-Simulate real-world market movements,Simulam movimentos de mercado do mundo real,Simule les mouvements réels du marché,Simular los movimientos de los mercados del mundo real,Mensimulasikan pergerakan pasar nyata,Simulate real-world market movements,Simulate real-world market movements
-Know Your Customer (KYC),Know Your Customer (KYC),Know Your Customer (KYC),Conoce a tu cliente (KYC),Kenali Pelanggan Anda (KYC),Know Your Customer (KYC),Know Your Customer (KYC)
-Proof of identity (POI),Comprovante de identidade (POI),Document d'identité (POI),Prueba de identidad,Bukti identitas (POI),Proof of identity (POI),Proof of identity (POI)
-Proof of address (POA),Comprovante de endereço (POA),Justificatif de domicile (POA),Prueba de dirección,Bukti alamat (POA),Proof of address (POA),Proof of address (POA)
-Proof of wealth,Comprovante de renda,Justificatif de solvabilité,Prueba de solvencia,Bukti kekayaan,Proof of wealth,Proof of wealth
-Enhanced Due Diligence (EDD),Diligência devida aprimorada (EDD),Diligence renforcée (EDD),Debida diligencia reforzada,Uji Tuntas yang Ditingkatkan (EDD),Enhanced Due Diligence (EDD),Enhanced Due Diligence (EDD)
-Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente,Uji Tuntas Pelanggan (CDD),Customer Due Diligence (CDD),Customer Due Diligence (CDD)
+Volatility,Volatilidade,Volatilité,Volatilidad,Volatilitas,Volatility,Volatilità
+Trading plan,Plano de negociação,Plan de trading,Plan de operaciones,Rencana trading,Trading plan,Piano di trading
+Trading journal,Jornal de negociação,Journal de trading,Diario de operaciones,Jurnal trading,Trading journal,Giornale di trading
+Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti
+Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale
+Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale
+"Simple, flexible, reliable","Simples, flexível, confiável","Simple, flexible, fiable","Simple, flexible, fiable","Simpel, fleksibel, andal.","Simple, flexible, reliable",Semplice. Flessibile. Affidabile.
+Intuitive trading platforms,Plataformas de negociação intuitivas,Des plateformes de trading intuitives,Plataformas de operación intuitivas,Platform trading intuitif,Intuitive trading platforms,Piattaforme di trading intuitive
+Zero commission,Comissão zero,Zéro commission,Cero comisiones,Tanpa komisi,Zero commission,Zero commissioni
+100+ tradeable assets,Mais de 100 ativos negociáveis,Plus de 100 actifs à trader,Más de 100 activos operables,100+ aset yang dapat ditradingkan,100+ tradeable assets,Più di 100 asset per il trading
+24/7 trading,Negociação 24/7,Trading 24h/24 7j/7,Trading 24/7,Trading 24/7,24/7 trading,Trading 24/7
+Sharp prices,Preços exatos,Prix compétitifs,Precios competitivos,Harga akurat,Sharp prices,Prezzi competitivi
+Flexible trade types,Tipos de negociação flexíveis,Types de trade flexibles,Tipos de operación flexibles,Jenis kontrak yang fleksibel ,Flexible trade types,Tipi di trade flessibili
+Fast deposits,Depósitos rápidos,Dépôts rapides,Depósitos rápidos,Deposit cepat,Fast deposits,Depositi veloci
+The Deriv experience,Experimente Deriv,L'expérience Deriv,La experiencia Deriv,Pengalaman Deriv,The Deriv experience,L'esperienza Deriv
+Automated trading at your fingertips,Negociação automatizada na ponta dos dedos,Le trading automatisé au bout de vos doigts,Operaciones automatizadas al alcance de tu mano,Trading otomatis di ujung jari Anda,Automated trading at your fingertips,Trading automatizzato e a portata di mano
+Minimise potential losses,Minimizar as perdas potenciais,Minimiser les pertes potentielles,Minimiza tus pérdidas potenciales,Minimalkan potensi kerugian,Minimise potential losses,Minimizzare le perdite potenziali
+"Expert, friendly support",Suporte amigável e especializado,Un soutien expert et amical,Asistencia experta y amigable,"Ahli, support yang ramah","Expert, friendly support",L'esperienza e disponibilità dei nostri professionisti
+Unlimited virtual funds,Fundos virtuais ilimitados,Fonds virtuels illimités,Fondos virtuales ilimitados,Dana virtual tanpa batas,Unlimited virtual funds,Fondi virtuali ilimitati
+Supported payment methods,Métodos de pagamento disponíveis,Méthodes de paiement prises en charge,Métodos de pago aceptados,Metode pembayaran yang teresedia,Supported payment methods,Modalità di pagamento disponibili
+Increase your market exposure,Aumentar sua exposição no mercado,Augmentez votre visibilité sur le marché,Incrementa tu exposición al mercado,Tingkatkan eksposur pasar Anda.,Increase your market exposure,Maggiore esposizione sul mercato
+Go long or short,Vá de long ou short,Aller long ou court,Ir en largo o en corto,Beli atau jual,Go long or short,Apri una posizione long o short
+Popular cryptocurrencies,Criptomoedas mais populares,Cryptomonnaies populaires,Criptomonedas populares,Mata uang kripto populer,Popular cryptocurrencies,Criptovalute principali
+Anticipate price movements,Antecipar movimentos de preço,Anticiper les mouvements de prix,Anticipa los movimientos de precio,Antisipasi pergerakan harga,Anticipate price movements,Anticipare i movimento dei prezzi
+Liquid currencies,Moedas com liquidez,Devises liquides,Monedas líquidas,Mata uang likuid,Liquid currencies,Valute liquide
+Amplify your potential profit,Ampliando seu lucro potencial,Amplifiez votre profit potentiel,Amplifica tu ganancia potencial,Perkuat potensi keuntungan,Amplify your potential profit,Ampifica il profitto potenziale
+Fixed payout,Pagamento fixo ,Paiement fixe,Pago fijo,Hasil tetap,Fixed payout,Guadagno fisso
+Minimal capital investment,Investimento de capital mínimo,Investissement en capital minimal,Inversión de capital mínimo,Investasi modal minimal,Minimal capital investment,Investimento di capitale minimo
+Predict the outcome,Prever o resultado,Prédire le résultat,Predice el resultado,Menganalisa hasil,Predict the outcome,Prevedi il risultato
+Earn a payout,Ganhe um pagamento,Obtenez un paiement,Obtén un pago,Dapatkan hasil,Earn a payout,Ottieni un guadagno
+Instant access,Acesso instantâneo,Accès instantané,Acceso instantáneo,Akses cepat,Instant access,Accesso istantaneo
+Minimal capital requirements,Requisitos mínimos de capital,Exigences minimales en matière de capital,Requisitos de capital mínimo,Persyaratan modal minimal,Minimal capital requirements,Requisito di capitale minimo
+User-friendly platforms,Plataformas fáceis de usar ,Des plateformes conviviales,Plataformas fáciles de usar,Platform yang mudah digunakan,User-friendly platforms,Piattaforme dal facile utilizzo
+Powerful chart technology,A poderosa tecnologia de gráficos,Une technologie graphique puissante,Tecnología de gráficos potente,Teknologi chart yang luar biasa,Powerful chart technology,Tecnologia per i grafici di alto livello
+Trade on world events,Negociar em eventos mundiais,Tradez sur les événements mondiaux,Opere en eventos mundiales,Bertrading pada acara dunia.,Trade on world events,Fai trading su eventi mondiali
+Risk management,Gerenciamento de riscos,Gestion des risques,Gestión del riesgo,Manajemen risiko,Risk management,Gestione del rischio
+"Secure, responsive platform",Plataforma segura e responsiva,Plate-forme sécurisée et réactive,Plataforma segura y dinámica,Platform yang aman dan responsif,"Secure, responsive platform",Piattaforma versatile e sicura
+Increased market exposure,Maior exposição ao mercado,Une exposition accrue au marché,Exposición al mercado aumentada,Peningkatan eksposur pasar,Increased market exposure,Maggiore esposizione sul mercato
+Optional parameters,Parâmetros opcionais,Paramètres facultatifs,Parámetros opcionales,Parameter opsional,Optional parameters,Parametri opzionali
+Customise the parameters,Personalizar os parâmetros,Personnalisez les paramètres,Personaliza los parámetros,Sesuaikan parameter ,Customise the parameters,Personalizza i parametri
+Award-winning platforms,Plataformas premiadas,Des plateformes primées,Plataformas galardonadas,Platform pemenang penghargaan,Award-winning platforms,Piattaforme pluripremiate
+All-in-one trading platform,Plataforma de negociação tudo em um,Plateforme de trading tout-en-un,Plataforma de operación todo en uno,Platform trading CFD semua dalam satu,All-in-one trading platform,La piattaforma di trading completa
+Multiple asset classes,Múltiplas classes de ativos,Classes d'actifs multiples,Múltiples clases de activos,Akses ke berbagai jenis aset ,Multiple asset classes,Molteplici classi di asset
+Innovative trade types,Tipos de negociação inovadores,Types de trades innovants,Tipos de operación innovadores,Jenis trading inovatif,Innovative trade types,Tipologie di trading innovative
+New and experienced traders,Trader iniciantes e experientes,Traders débutants et expérimentés,Traders nuevos y expertos,Trader pemula dan berpengalaman ,New and experienced traders,Trader esperti e quelli alle prime armi
+Licensed and regulated,Licenciada e regulamentada,Sous licence et réglementé,Autorizada y regulada,Berlisensi dan diatur,Licensed and regulated,Autorizzata e regolamentata
+Quick sign-up,Registro rápido,Inscription rapide,Registro rápido,Pendaftaran cepat,Quick sign-up,Registrazione veloce
+Proprietary synthetic indices,Próprios índices sintéticos,Indices synthétiques exclusifs,Índices sintéticos propios,Indeks sintetis eksklusif,Proprietary synthetic indices,I nostri indici sintetici
+Regulated industry pioneer,Pioneiro do setor regulamentado,Pionnier du secteur réglementé,Pionero regulado en la industria,Pelopor industri yang diatur,Regulated industry pioneer,Società autorizzata pionera nel settore
+Practise trading,Pratique negociações,Entraînez-vous au trading,Practica el trading,Berlatih trading,Practise trading,Fai pratica con il trading
+Take control of your trades,Assuma o controle de suas negociações,Prenez le contrôle de vos trades,Toma el control de tus operaciones,Kendalikan trading Anda,Take control of your trades,Mantieni il controllo sui tuoi trade
+Increase your returns,Aumentar seus retornos,Augmentez vos rendements,Incrementa tu rendimiento,Tingkatkan keuntungan Anda,Increase your returns,Aumenta i ritorni
+Trade on the world markets,Negocie em mercados mundiais,Tradez sur les marchés mondiaux,Opera en los mercados mundiales,Trading di pasar dunia,Trade on the world markets,Fai trading sui mercati mondiali
+No swap charges,Não pague taxas de swap,Pas de frais de swap,Sin cargos swap,Tanpa biaya swap,No swap charges,Nessun imposti swap
+Multi-asset trading platform,Plataformas de negociação de múltiplos ativos,Plate-forme de trading avec de multiples actifs,Plataforma de operación con múltiples activos,Platform trading multi-aset,Multi-asset trading platform,Piattaforma multi-asset per il trading
+Versatile trading experience,Experiência de negociação versátil,Une expérience de trading polyvalente,Experiencia de operación versátil,Pengalaman trading serbaguna,Versatile trading experience,Esperienza versatile di trading
+Customise your trading environment,Personalize seu ambiente de negociação,Personnalisez votre environnement de trading,Personaliza tu entorno de operación,Sesuaikan trading Anda dengan mudah,Customise your trading environment,Personalizza il tuo spazio di trading
+Built to fit your trading style,Construída para se adequar ao seu estilo de negociação,Conçu pour s'adapter à votre style de trading,Construido para adaptarse a tu estilo de operación,Disesuaikan dengan gaya trading Anda,Built to fit your trading style,Pensata per adattarsi al tuo stile di trading
+Multiple markets on a single platform,Vários mercados em uma única plataforma,Plusieurs marchés sur une seule plateforme,Múltiples mercados en una única plataforma,Berbagai pilihan pasar dalam satu platform,Multiple markets on a single platform,Mercati diversi su un'unica piattaforma
+Bespoke trading experience,Experiência de negociação personalizada,Expérience de trading sur mesure,Experiencia de operación a medida,Pengalaman trading yang diciptakan secara khusus,Bespoke trading experience,Esperienza di trading personalizzata
+Intuitive tools,Ferramentas intuitivas,Outils intuitifs,Herramientas intuitivas,Peralatan yang intuitif,Intuitive tools,Strumenti intuitivi
+Feature-rich charts,Gráficos ricos em recursos,Graphiques riches en fonctionnalités,Gráficos repletos de características,Fitur charting lengkap,Feature-rich charts,Grafici con numerose funzionalità
+Trading made simple,Ficou mais fácil negociar,Le trading en toute simplicité,Trading simplificado,Trading dengan mudah,Trading made simple,Il trading non è mai stato cosí semplice
+Flexible trade duration,Duração flexível de negociação,Durée de trading flexible,Duración de operación flexible,Durasi trading yang fleksibel,Flexible trade duration,Durata flessibile del trade
+Make smarter trading decisions,Tome decisões de negociação mais inteligentes,Prenez des décisions de trading plus avisées,Tome decisiones de operación inteligentes,Membuat keputusan trading yang lebih cerdas,Make smarter trading decisions,Rendi vincenti le tue scelte di trading
+"Trade what you want, when you want","Negocie o que você quiser, quando quiser"," Tradez ce que vous voulez, quand vous le voulez","Opera lo que quieras, cuando quieras","Bertrading apa saja, kapan saja yang Anda inginkan","Trade what you want, when you want","Scegli tu cosa, quando"
+"Start trading whenever, wherever you want",Comece a negociar quando e onde quiser,Commencez à trader quand et où vous voulez,"Empieza a operar donde quieras, cuando quieras","Mulai bertrading kapan pun, di mana pun","Start trading whenever, wherever you want","Inizia a fare trading dove vuoi, quando vuoi"
+User-friendly features,Recursos fáceis de usar,Fonctions faciles à utiliser,Características fáciles de usar,Fitur yang mudah digunakan,User-friendly features,Funzionalità facili da usare
+Round the clock,24 horas por dia,Jour et nuit,A cualquier hora,Trading sepanjang waktu,Round the clock,24 ore su 24
+Easy access,Fácil acesso,Facile d'accès,Fácil acceso,Akses mudah,Easy access,Accesso veloce
+Trading on the go,Negociação em qualquer lugar,Tradez en toute liberté,Trading portátil,Trading dimana saja,Trading on the go,Trading ovunque tu sia
+Risk appetite,Apetite de risco,Appétit pour le risque,Apetito de riesgo,Selera risiko,Risk appetite,Propensione al rischio
+Trader sentiment,Sentimento do negociante,Sentiment de trader,Sentimiento de trader,Sentimen trader,Trader sentiment,Sentimento dei trader
+Economic slowdown,A desaceleração econômica,Ralentissement économique,Desaceleración económica,Perlambatan ekonomi,Economic slowdown,Rallentamento economico
+Gain traction,Ganho de tração,Gagnez de la vitesse,Ganar tracción,Dapatkan daya tarik,Gain traction,Ottieni trazione
+Fund your account,Deposite na sua conta,Déposez des fonds dans votre compte,Depositar fondos en tu cuenta,Danai akun Anda,Fund your account,Deposite fondi sul suo conto
+Cryptographically secure,Criptograficamente seguro,Cryptographiquement sécurisé,Criptográficamente seguro,Aman secara kriptografis,Cryptographically secure,Protetto con criptografia
+Simulate real-world market movements,Simulam movimentos de mercado do mundo real,Simule les mouvements réels du marché,Simular los movimientos de los mercados del mundo real,Mensimulasikan pergerakan pasar nyata,Simulate real-world market movements,Simulano i movimenti del mercato del mondo reale
+Know Your Customer (KYC),Know Your Customer (KYC),Know Your Customer (KYC),Conoce a tu cliente (KYC),Kenali Pelanggan Anda (KYC),Know Your Customer (KYC),Know-your-customer (KYC)
+Proof of identity (POI),Comprovante de identidade (POI),Document d'identité (POI),Prueba de identidad (POI),Bukti identitas (POI),Proof of identity (POI),Verifica dell'identità (POI)
+Proof of address (POA),Comprovante de endereço (POA),Justificatif de domicile (POA),Prueba de dirección (POA),Bukti alamat (POA),Proof of address (POA),Verifica dell'indirizzo (POA)
+Proof of wealth,Comprovante de renda,Justificatif de solvabilité,Prueba de solvencia,Bukti kekayaan,Proof of wealth,Prova a verifica del patrimonio
+Enhanced Due Diligence (EDD),Diligência devida aprimorada (EDD),Diligence renforcée (EDD),Debida diligencia reforzada (EDD),Uji Tuntas yang Ditingkatkan (EDD),Enhanced Due Diligence (EDD),Due diligence rafforzata (EDD)
+Customer Due Diligence (CDD),Diligência devida ao cliente (CDD),Diligence à l'égard du client (CDD),Debida diligencia con respecto al cliente (CDD),Uji Tuntas Pelanggan (CDD),Customer Due Diligence (CDD),Due diligence nel rapporto con la clientela (CDD)
