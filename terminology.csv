@@ -41,68 +41,6 @@ API token,Token API,Token API,Token API,Token API,API token,Token API,Токен
 Take profit,Take profit,Take profit,Take profit,Batas keuntungan,Take profit,Take profit,Тейк профит
 Stop loss,Stop loss,Stop loss,Stop loss,Batas kerugian,Stop loss,Stop loss,Стоп лосс
 Deriv peer to peer (DP2P),Deriv peer to peer (DP2P),Deriv peer to peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer to peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer to peer (DP2P)
-Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader
-DTrader,DTrader,DTrader,DTrader,DTrader,DTrader,DTrader,DTrader
-Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO
-Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X
-Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot
-DBot,DBot,DBot,DBot,DBot,DBot,DBot,DBot
-Ticktrade App,Ticktrade App,Ticktrade App,Ticktrade App,Aplikasi Ticktrade,Ticktrade App,Ticktrade App,Ticktrade App
-MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5
-Introducing broker (IB),Corretor de Apresentação (IB),Courtage d'introduction (IB),Bróker introductor (IB),Introducing broker (IB),Introducing broker (IB),Introducing broker (IB),Представляющий брокер (ПБ)
-Spot exchange rate,Taxa de câmbio (spot),Taux de change spot,Tasa de cambio al contado (spot),Nilai tukar spot,Spot exchange rate,Tassa di cambio spot,Спотовый курс
-Lookback,Retroativos,Lookback,Retroactivo,Lookback,Lookback,Opzione retrospettiva (lookback),Lookback
-Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom
-Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break
-Step indices,Índices Step,Step indices,Índices step,Indeks Step,Step indices,Indici step,Индексы Step
-Swap charges,Taxa swap,Frais de swap,Cargos swap,Biaya swap,Swap charges,Imposte swap,Свопы
-Over-the-counter / over the counter (OTC),Over-the-counter / mercado de balcão (OTC),Over-the-counter / over the counter (OTC),Extrabursátil (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевой (m) / Внебиржевая (f) / Внебиржевое (ng) / Внебиржевые (plural)
-Deriv API,API Deriv,Deriv API,API Deriv,API Deriv,Deriv API,API Deriv,Deriv API
-Contracts,Contratos,Contrats,Contratos,Kontrak,Contracts,Contratti,Контракты
-Call/Put Spreads,Call/Put Spread,Call/Put Spreads,Call/Put Spreads,Spread Call/Put,Call/Put Spreads,Call/Put Spread,Колл/Пут спред
-Cryptocurrency trading,Negociação de criptomoedas,Trading de cryptomonnaie,Operaciones con criptomonedas,Trading mata uang kripto,Cryptocurrency trading,Trading di criptovalute,Криптовалютный трейдинг
-Cryptocurrency ,Criptomoedas,Cryptomonnaie,Criptomonedas,Mata uang kripto,Cryptocurrency ,Criptovalute,Криптовалюта
-Leverage,Alavancagem,Levier,Apalancamiento,Leverage,Leverage,Leva finanziaria,Кредитное плечо
-Liquidity provider (LP),Provedor de liquidez (LP),Animateur de marché (LP),Proveedor de liquidez (PL),Penyedia likuiditas (LP),Liquidity provider (LP),Fornitore di liquidità,Поставщик ликвидности (ПЛ)
-Minor pairs,Pares secundários,Paires mineures,Pares menores,Pasangan minor,Minor pairs,Coppie minori,Минорные пары
-basket indices,cesta de índices,Panier d'indices,cesta de índices,Indeks basket,basket indices,Panieri di indici,Валютные индексы
-Base currency,Moeda base,Devise de base,Moneda base,Mata uang dasar,Base currency,Valuta base,Базовая валюта
-Quote currency,Moeda da cotação,Devise cotée,Moneda de cotización,Mata uang kutipan,Quote currency,Valuta della quotazione,Котируемая валюта
-Barrier,Barreira,Barrière,Barrera,Barrier,Barrier,Barriera,Барьер
-Duration,Duração,Durée,Duración,Durasi,Duration,Durazione,Длительность
-Pip,Pip,Pip,Pip,Pip,Pip,Pip,Пип
-DMT5 signals,Sinais DMT5,Signaux DMT5,Señales DMT5,Sinyal DMT5,DMT5 signals,Segnali DMT5,Сигналы DMT5
-Signal provider,Provedor de sinal,Fournisseur de signaux,Proveedor de señales,Penyedia sinyal,Signal provider,Fornitore di segnali,Провайдер сигналов
-Signal subscriber,Assinante de sinal,Souscripteur du signal,Suscriptor de señal,Pelanggan sinyal,Signal subscriber,Iscritto ai segnali,Подписчик сигналов
-Go long,Vá de long,Aller long,Ir en largo,Beli,Go long,Aprire una posizione long,Открыть длинную позицию
-Go short,Vá de short,Aller court,Ir en corto,Jual,Go short,Aprire una posizione short,Открыть короткую позицию
-Demo account,Conta Demo,Compte Démo,Cuenta demo,Akun demo,Demo account,Conto demo,Демо-счет
-Real account,Conta Real,Compte Réel,Cuenta real,Akun riil,Real account,Conto reale,Реальный счет
-Asset,Ativo,Actif,Activo,Aset,Asset,Asset,Актив
-Sell price,Preço de venda,Prix de vente,Precio de venta,Harga jual,Sell price,Prezzo di vendita,Цена продажи
-Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga market,Market price,Prezzo di mercato,Рыночная цена
-Buy price,Preço de compra,Prix d'achat,Precio de compra,Harga beli,Buy price,Prezzo di acquisto,Цена покупки
-Equity,Capital,Action,Capital,Ekuitas,Equity,Equity,Средства
-Open positions,Posições abertas,Positions ouvertes,Posiciones abiertas,Posisi berjalan,Open positions,Posizione aperte,Открытые позиции
-Liquidity risks,Risco de liquidez,Risques de liquidité,Riesgos de liquidez,Risiko likuiditas,Liquidity risks,Rischi di liquidità,Риски ликвидности
-Underlying asset ,Ativo subjacente,Actif sous-jacent ,Activo subyacente,Aset dasar,Underlying asset ,Asset sottostante,Базовый актив
-Up/Down,Acima/Abaixo,Hausse/Baisse,Arriba/Abajo,Up/Down,Up/Down,Alto/Basso,Вверх/Вниз
-In/Out,Dentro/Fora,In/Out,Dentro/Fuera,In/Out,In/Out,Dentro/Fuori,Внутри/Вне
-Digits,Dígitos,Chiffres,Dígitos,Digit,Digits,Cifre,Цифровые
-Reset Call/Reset Put,Redefinir Compra/Redefinir Venda,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Колл/Reset Пут
-High/Low Ticks,Ticks Superior/Inferior,Ticks Haut/Bas,Ticks altos/bajos,High/Low Tik,High/Low Ticks,Tick alti/bassi,Высокий/Низкий тик
-Touch/No Touch,Toca/Não Toca,Touche/Ne Touche Pas,Toca/No Toca,Touch/No Touch,Touch/No Touch,Tocca/Non tocca,Касание/Нет касания
-Trading platform,Plataforma de negociação,Plateforme de trading,Plataforma de operaciones,Platform trading,Trading platform,Piattaforma di trading,Торговая платформа
-Market,Mercado,Marché,Mercado,Pasar,Market,Mercato,Рынок
-Stock indices,Índices de ações,Indices boursiers,Índices bursátiles,Indeks saham,Stock indices,Indizi azionari,Фондовые индексы
-Trade type,Tipo de negociação,Type de trade,Tipo de operación,Jenis kontrak,Trade type,Tipi di trade,Тип контракта
-Mobile trading,Negociação pelo celular,Trading par téléphone,Trading con móvil,Trading seluler,Mobile trading,Trading mobile,Мобильный трейдинг
-Point,Ponto,Point,Punto,Poin,Point,Punto,Пункт
-Fundamental analysis,Análise fundamental,Analyse fondamentale,Análisis fundamental,Analisis fundamental,Fundamental analysis,Analisi fondamentale,Фундаментальный анализ
-Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisis teknikal,Technical analysis,Analisi tecnico,Технический анализ
-Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Trading giornaliero,Дей-трейдинг
-Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero,Внутридневной (m)  / Внутридневная (f) / Внутридневное (ng)
-Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Trading automatizzato,Автоматический трейдинг
 Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti,Узкие спреды
 Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale,Потенциальная прибыль
 Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale,Начальный депозит
