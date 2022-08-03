@@ -10,6 +10,7 @@ const languageCodes = {
     Indonesian: 'id',
     Vietnamese: 'vi',
     Italian: 'it',
+    Russian: 'ru'
 } 
 
 // get first row of first sheet
