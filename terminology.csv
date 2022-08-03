@@ -65,7 +65,7 @@ Cryptocurrency ,Criptomoedas,Cryptomonnaie,Criptomonedas,Mata uang kripto,Crypto
 Leverage,Alavancagem,Levier,Apalancamiento,Leverage,Leverage,Leva finanziaria,Кредитное плечо
 Liquidity provider (LP),Provedor de liquidez (LP),Animateur de marché (LP),Proveedor de liquidez (PL),Penyedia likuiditas (LP),Liquidity provider (LP),Fornitore di liquidità,Поставщик ликвидности (ПЛ)
 Minor pairs,Pares secundários,Paires mineures,Pares menores,Pasangan minor,Minor pairs,Coppie minori,Минорные пары
-basket indices,cesta de índices,Panier d'indices,Cesta de índices,Indeks basket,basket indices,Panieri di indici,Валютные индексы
+basket indices,cesta de índices,Panier d'indices,cesta de índices,Indeks basket,basket indices,Panieri di indici,Валютные индексы
 Base currency,Moeda base,Devise de base,Moneda base,Mata uang dasar,Base currency,Valuta base,Базовая валюта
 Quote currency,Moeda da cotação,Devise cotée,Moneda de cotización,Mata uang kutipan,Quote currency,Valuta della quotazione,Котируемая валюта
 Barrier,Barreira,Barrière,Barrera,Barrier,Barrier,Barriera,Барьер
@@ -147,6 +147,8 @@ Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Our tracking site:
 Deposit,Deposit,Deposit,Deposit,Deposit,Deposit,Deposit,Deposit
 Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal
 Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate
+Real MT5 account,Real MT5 account,Real MT5 account,Real MT5 account,Akun MT5 riil,Real MT5 account,Real MT5 account,Real MT5 account
+real MT5 account,real MT5 account,real MT5 account,real MT5 account,akun MT5 riil,real MT5 account,real MT5 account,real MT5 account
 Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti,Узкие спреды
 Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale,Потенциальная прибыль
 Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale,Начальный депозит
