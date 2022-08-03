@@ -103,7 +103,7 @@ Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisi
 Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Trading giornaliero,Дей-трейдинг
 Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero,Внутридневной (m)  / Внутридневная (f) / Внутридневное (ng)
 Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Trading automatizzato,Автоматический трейдинг
-Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Trade,Trade (n) / Far trading (v),Торговля (n) / Контракт (n - meaning "contract") / Торговать (v)
+Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Trade,Trade (n) / Far trading (v),Торговля (n) / Контракт (n - meaning contract) / Торговать (v)
 Broker,Broker,Broker,Bróker,Broker,Broker,Broker,Брокер
 Contract,Contrato,Contrat,Contrato,Kontrak,Contract,Contratto,Контракт
 Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga pasar,Market price,Prezzo di mercato,Рыночная цена
@@ -131,24 +131,25 @@ Swing trading,Swing trade,Swing trading,Swing trading,Trading swing,Swing tradin
 Volatility,Volatilidade,Volatilité,Volatilidad,Volatilitas,Volatility,Volatilità,Волатильность
 Trading plan,Plano de negociação,Plan de trading,Plan de operaciones,Rencana trading,Trading plan,Piano di trading,Торговый план
 Trading journal,Jornal de negociação,Journal de trading,Diario de operaciones,Jurnal trading,Trading journal,Giornale di trading,Торговый журнал
-traders,traders,traders,traders,traders,traders,trader,трейдеры
+traders,traders,traders,traders,trader,traders,trader,трейдеры
 trader,trader,trader,trader,trader,trader,trader,трейдер
-USD Basket,USD Basket,USD Basket,Cesta USD,USD Basket,USD Basket,Paniere USD,Индекс USD
-Gold Basket,Gold Basket,Gold Basket,Cesta Oro,Gold Basket,Gold Basket,Paniere Oro,Индекс Gold
+USD Basket,USD Basket,USD Basket,Cesta USD,Basket USD,USD Basket,Paniere USD,Индекс USD
+Gold Basket,Gold Basket,Gold Basket,Cesta Oro,Basket Gold,Gold Basket,Paniere Oro,Индекс Gold
 Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd
 Chief Financial Officer,Chief Financial Officer,Chief Financial Officer,Director Financiero,Chief Financial Officer,Chief Financial Officer,Direttore Finanziario,Финансовый директор
 High Ticks/Low Ticks,High Ticks/Low Ticks,High Ticks/Low Ticks,Ticks altos/Ticks Bajos,High Ticks/Low Ticks,High Ticks/Low Ticks,Tick alti/Tick bassi,Высокий тик/Низкий тик
 Only Ups/Only Downs,Only Ups/Only Downs,Only Ups/Only Downs,Solo arriba/Solo abajo,Only Ups/Only Downs,Only Ups/Only Downs,Solo ascendenti/Solo discendenti,Только вверх/Только вниз
 lot,lot,lot,lote,lot,lot,lotto,лот
 USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB
-Jump Indices,Jump Indices,Jump Indices,Índices Jump,Jump Indices,Jump Indices,Indici Jump,Индексы Jump
-Continuous indices,Continuous indices,Continuous indices,Índices contínuos,Continuous indices,Continuous indices,Indici continui,Непрерывные индексы
+Jump Indices,Jump Indices,Jump Indices,Índices Jump,Indeks Jump,Jump Indices,Indici Jump,Индексы Jump
+Continuous indices,Continuous indices,Continuous indices,Índices contínuos,Indeks ,Continuous indices,Indici continui,Непрерывные индексы
 Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Nuestro sitio de seguimiento: t.deriv.com ,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Il sito per il tracciamento: t.deriv.com ,Наш трекер: t.deriv.com
 Deposit,Deposit,Deposit,Deposit,Deposit,Deposit,Deposit,Deposit
 Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal,Withdrawal
 Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate,Swap rate
 Real MT5 account,Real MT5 account,Real MT5 account,Real MT5 account,Akun MT5 riil,Real MT5 account,Real MT5 account,Real MT5 account
 real MT5 account,real MT5 account,real MT5 account,real MT5 account,akun MT5 riil,real MT5 account,real MT5 account,real MT5 account
+Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5
 Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti,Узкие спреды
 Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale,Потенциальная прибыль
 Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale,Начальный депозит
