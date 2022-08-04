@@ -41,6 +41,125 @@ API token,Token API,Token API,Token API,Token API,API token,Token API,Токен
 Take profit,Take profit,Take profit,Take profit,Batas keuntungan,Take profit,Take profit,Тейк профит
 Stop loss,Stop loss,Stop loss,Stop loss,Batas kerugian,Stop loss,Stop loss,Стоп лосс
 Deriv peer to peer (DP2P),Deriv peer to peer (DP2P),Deriv peer to peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer to peer (DP2P),Deriv peer-to-peer (DP2P),Deriv peer to peer (DP2P)
+Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader,Smart Trader
+DTrader,DTrader,DTrader,DTrader,DTrader,DTrader,DTrader,DTrader
+Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO,Deriv GO
+Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X,Deriv X
+Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot,Binary Bot
+DBot,DBot,DBot,DBot,DBot,DBot,DBot,DBot
+Ticktrade App,Ticktrade App,Ticktrade App,Ticktrade App,Aplikasi Ticktrade,Ticktrade App,Ticktrade App,Ticktrade App
+MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5,MetaTrader 5 (MT5) / Deriv MetaTrader 5 (DMT5) / Deriv MT5
+Introducing broker (IB),Corretor de Apresentação (IB),Courtage d'introduction (IB),Bróker introductor (IB),Introducing broker (IB),Introducing broker (IB),Introducing broker (IB),Представляющий брокер (ПБ)
+Spot exchange rate,Taxa de câmbio (spot),Taux de change spot,Tasa de cambio al contado (spot),Nilai tukar spot,Spot exchange rate,Tassa di cambio spot,Спотовый курс
+Lookback,Retroativos,Lookback,Retroactivo,Lookback,Lookback,Opzione retrospettiva (lookback),Lookback
+Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom
+Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break
+Step indices,Índices Step,Step indices,Índices step,Indeks Step,Step indices,Indici step,Индексы Step
+Swap charges,Taxa swap,Frais de swap,Cargos swap,Biaya swap,Swap charges,Imposte swap,Свопы
+Over-the-counter / over the counter (OTC),Over-the-counter / mercado de balcão (OTC),Over-the-counter / over the counter (OTC),Extrabursátil (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевой (m) / Внебиржевая (f) / Внебиржевое (ng) / Внебиржевые (plural)
+Deriv API,API Deriv,Deriv API,API Deriv,API Deriv,Deriv API,API Deriv,Deriv API
+Contracts,Contratos,Contrats,Contratos,Kontrak,Contracts,Contratti,Контракты
+Call/Put Spreads,Call/Put Spread,Call/Put Spreads,Call/Put Spreads,Spread Call/Put,Call/Put Spreads,Call/Put Spread,Колл/Пут спред
+Cryptocurrency trading,Negociação de criptomoedas,Trading de cryptomonnaie,Operaciones con criptomonedas,Trading mata uang kripto,Cryptocurrency trading,Trading di criptovalute,Криптовалютный трейдинг
+Cryptocurrency ,Criptomoedas,Cryptomonnaie,Criptomonedas,Mata uang kripto,Cryptocurrency ,Criptovalute,Криптовалюта
+Leverage,Alavancagem,Levier,Apalancamiento,Leverage,Leverage,Leva finanziaria,Кредитное плечо
+Liquidity provider (LP),Provedor de liquidez (LP),Animateur de marché (LP),Proveedor de liquidez (PL),Penyedia likuiditas (LP),Liquidity provider (LP),Fornitore di liquidità,Поставщик ликвидности (ПЛ)
+Minor pairs,Pares secundários,Paires mineures,Pares menores,Pasangan minor,Minor pairs,Coppie minori,Минорные пары
+basket indices,cesta de índices,panier d'indices,cesta de índices,indeks basket,basket indices,panieri di indici,bалютные индексы
+Base currency,Moeda base,Devise de base,Moneda base,Mata uang dasar,Base currency,Valuta base,Базовая валюта
+Quote currency,Moeda da cotação,Devise cotée,Moneda de cotización,Mata uang kutipan,Quote currency,Valuta della quotazione,Котируемая валюта
+Barrier,Barreira,Barrière,Barrera,Barrier,Barrier,Barriera,Барьер
+Duration,Duração,Durée,Duración,Durasi,Duration,Durazione,Длительность
+Pip,Pip,Pip,Pip,Pip,Pip,Pip,Пип
+DMT5 signals,Sinais DMT5,Signaux DMT5,Señales DMT5,Sinyal DMT5,DMT5 signals,Segnali DMT5,Сигналы DMT5
+Signal provider,Provedor de sinal,Fournisseur de signaux,Proveedor de señales,Penyedia sinyal,Signal provider,Fornitore di segnali,Провайдер сигналов
+Signal subscriber,Assinante de sinal,Souscripteur du signal,Suscriptor de señal,Pelanggan sinyal,Signal subscriber,Iscritto ai segnali,Подписчик сигналов
+Go long,Vá de long,Aller long,Ir en largo,Beli,Go long,Aprire una posizione long,Открыть длинную позицию
+Go short,Vá de short,Aller court,Ir en corto,Jual,Go short,Aprire una posizione short,Открыть короткую позицию
+Demo account,Conta Demo,Compte Démo,Cuenta demo,Akun demo,Demo account,Conto demo,Демо-счет
+Real account,Conta Real,Compte Réel,Cuenta real,Akun riil,Real account,Conto reale,Реальный счет
+Asset,Ativo,Actif,Activo,Aset,Asset,Asset,Актив
+Sell price,Preço de venda,Prix de vente,Precio de venta,Harga jual,Sell price,Prezzo di vendita,Цена продажи
+Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga market,Market price,Prezzo di mercato,Рыночная цена
+Buy price,Preço de compra,Prix d'achat,Precio de compra,Harga beli,Buy price,Prezzo di acquisto,Цена покупки
+Equity,Capital,Action,Capital,Ekuitas,Equity,Equity,Средства
+Open positions,Posições abertas,Positions ouvertes,Posiciones abiertas,Posisi berjalan,Open positions,Posizione aperte,Открытые позиции
+Liquidity risks,Risco de liquidez,Risques de liquidité,Riesgos de liquidez,Risiko likuiditas,Liquidity risks,Rischi di liquidità,Риски ликвидности
+Underlying asset ,Ativo subjacente,Actif sous-jacent ,Activo subyacente,Aset dasar,Underlying asset ,Asset sottostante,Базовый актив
+Up/Down,Acima/Abaixo,Hausse/Baisse,Arriba/Abajo,Up/Down,Up/Down,Alto/Basso,Вверх/Вниз
+In/Out,Dentro/Fora,In/Out,Dentro/Fuera,In/Out,In/Out,Dentro/Fuori,Внутри/Вне
+Digits,Dígitos,Chiffres,Dígitos,Digit,Digits,Cifre,Цифровые
+Reset Call/Reset Put,Redefinir Compra/Redefinir Venda,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Call/Reset Put,Reset Колл/Reset Пут
+High/Low Ticks,Ticks Superior/Inferior,Ticks Haut/Bas,Ticks altos/bajos,High/Low Tik,High/Low Ticks,Tick alti/bassi,Высокий/Низкий тик
+Touch/No Touch,Toca/Não Toca,Touche/Ne Touche Pas,Toca/No Toca,Touch/No Touch,Touch/No Touch,Tocca/Non tocca,Касание/Нет касания
+Trading platform,Plataforma de negociação,Plateforme de trading,Plataforma de operaciones,Platform trading,Trading platform,Piattaforma di trading,Торговая платформа
+Market,Mercado,Marché,Mercado,Pasar,Market,Mercato,Рынок
+Stock indices,Índices de ações,Indices boursiers,Índices bursátiles,Indeks saham,Stock indices,Indizi azionari,Фондовые индексы
+Trade type,Tipo de negociação,Type de trade,Tipo de operación,Jenis kontrak,Trade type,Tipi di trade,Тип контракта
+Mobile trading,Negociação pelo celular,Trading par téléphone,Trading con móvil,Trading seluler,Mobile trading,Trading mobile,Мобильный трейдинг
+Point,Ponto,Point,Punto,Poin,Point,Punto,Пункт
+Fundamental analysis,Análise fundamental,Analyse fondamentale,Análisis fundamental,Analisis fundamental,Fundamental analysis,Analisi fondamentale,Фундаментальный анализ
+Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisis teknikal,Technical analysis,Analisi tecnico,Технический анализ
+Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Trading giornaliero,Дей-трейдинг
+Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero,Внутридневной (m)  / Внутридневная (f) / Внутридневное (ng)
+Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Trading automatizzato,Автоматический трейдинг
+Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Giao dịch,Trade (n) / Far trading (v),Торговля (n) / Контракт (n - meaning contract) / Торговать (v)
+Broker,Broker,Broker,Bróker,Broker,Broker,Broker,Брокер
+Contract,Contrato,Contrat,Contrato,Kontrak,Contract,Contratto,Контракт
+Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga pasar,Market price,Prezzo di mercato,Рыночная цена
+Altcoin,Altcoin,Altcoin,Altcoin,Altcoin,Altcoin,Altcoin,Альткоин
+All-time low (ATL),All-time low (ATL),All-time low (ATL),Mínimo histórico (ATL),Terendah sepanjang masa (ATL),All-time low (ATL),Minimo storico (ATL),Исторический минимум (ATL)
+All-time high (ATH),All-time high (ATH),All-time high (ATH),Máximo histórico (ATH),Tertinggi sepanjang masa (ATH),All-time high (ATH),Massimo storico (ATH),Исторический максимум (ATH)
+Virtual funds,Fundos virtuais,Fonds virtuels,Fondos virtuales,Dana virtual,Virtual funds,Fondi virtuali,Виртуальные средства
+Payment methods,Métodos de pagamentos,Méthodes de paiement,Métodos de pago,Metode pembayaran,Payment methods,Metodi di pagamento,Платежные методы
+Blockchain,Blockchain,Blockchain,Blockchain,Blockchain,Blockchain,Blockchain,Блокчейн
+Verification,Verificação,Vérification,Verificación,Verifikasi,Verification,Verificazione,Верификация
+Deal cancellation,Cancelamento da transação,Deal cancellation,Cancelación del contrato,Pembatalan transaksi,Deal cancellation,Cancellazione,Отмена сделки
+Non-refundable fee,Taxa não reembolsável,Frais non remboursables,Tarifa no reembolsable,Biaya yang tidak dapat dikembalikan,Non-refundable fee,Tassa non rimborsabile,Невозвратный сбор
+Loss,Perda,Perte,Pérdida,Rugi,Loss,Perdita,Убыток
+Net loss,Perda líquida,Perte nette,Pérdida neta,Kerugian bersih,Net loss,Perdita netta,Чистый убыток
+Volatile,Volátil,Volatile,Volátil,Fluktuatif,Volatile,Volatilità,Волатильный (m) / Волатильная (f) / Волатильное (ng) / Волатильные (pl)
+Liquidity,Liquidez,Liquidité,Liquidez,Liquiditas,Liquidity,Liquidità,Ликвидность
+Payment agent,Agente de pagamento,Agent de paiement,Agente de pago,Agen pembayaran,Payment agent,Agente di pagamento,Платежный агент
+Weighted,Ponderado,Pondéré,Ponderada,Bobot,Weighted,Ponderata,Взвешенный (m) / Взвешенная (f) / Взвешенное (ng) / Взвешенные (pl)
+Downtrend,Downtrend,Tendance à la baisse,Tendencia a la baja,Trend menurun,Downtrend,Tendenza al ribasso,Нисходящий тренд
+Flip,Flipagem,Flipping,Cambiar,Membalik,Flip,Flip,Кувырок / Флип
+Resistance level,Level de resistência,Niveau de résistance,Nivel de resistencia,Tingkat resistensi,Resistance level,Livello di resistenza,Уровень сопротивления
+Scalping,Scalping,Scalping,Scalping,Scalping,Scalping,Scalping,Скальпинг
+Position trading,Position trade,Position trading,Position trading,Trading posisi,Position trading,Position trading,Позиционный трейдинг
+Swing trading,Swing trade,Swing trading,Swing trading,Trading swing,Swing trading,Swing trading,Свинг трейдинг
+Volatility,Volatilidade,Volatilité,Volatilidad,Volatilitas,Volatility,Volatilità,Волатильность
+Trading plan,Plano de negociação,Plan de trading,Plan de operaciones,Rencana trading,Trading plan,Piano di trading,Торговый план
+Trading journal,Jornal de negociação,Journal de trading,Diario de operaciones,Jurnal trading,Trading journal,Giornale di trading,Торговый журнал
+traders,traders,traders,traders,trader,traders,trader,трейдеры
+trader,trader,trader,trader,trader,trader,trader,трейдер
+USD Basket,USD Basket,USD Basket,Cesta USD,Basket USD,USD Basket,Paniere USD,Индекс USD
+Gold Basket,Gold Basket,Gold Basket,Cesta Oro,Basket Gold,Gold Basket,Paniere Oro,Индекс Gold
+Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd,Deriv (V) Ltd
+Chief Financial Officer,Chief Financial Officer,Chief Financial Officer,Director Financiero,Chief Financial Officer,Chief Financial Officer,Direttore Finanziario,Финансовый директор
+High Ticks/Low Ticks,High Ticks/Low Ticks,High Ticks/Low Ticks,Ticks altos/Ticks Bajos,High Ticks/Low Ticks,High Ticks/Low Ticks,Tick alti/Tick bassi,Высокий тик/Низкий тик
+Only Ups/Only Downs,Only Ups/Only Downs,Only Ups/Only Downs,Solo arriba/Solo abajo,Only Ups/Only Downs,Only Ups/Only Downs,Solo ascendenti/Solo discendenti,Только вверх/Только вниз
+lot,lot,lot,lote,lot,lot,lotto,лот
+USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB
+Jump Indices,Jump Indices,Jump Indices,Índices Jump,Indeks Jump,Jump Indices,Indici Jump,Индексы Jump
+Continuous indices,Continuous indices,Continuous indices,Índices contínuos,Indeks ,Continuous indices,Indici continui,Непрерывные индексы
+Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Nuestro sitio de seguimiento: t.deriv.com ,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Il sito per il tracciamento: t.deriv.com ,Наш трекер: t.deriv.com
+Deposit,Deposit,Deposit,Depósito,Deposit,Deposit,Deposito,Deposit
+Withdrawal,Withdrawal,Withdrawal,Retiro,Withdrawal,Withdrawal,Prelievo,Withdrawal
+Swap rate,Swap rate,Swap rate,Tasa swap,Swap rate,Swap rate,Tasso swap,Swap rate
+Real MT5 account,Real MT5 account,Real MT5 account,Cuenta MT5 real,Akun MT5 riil,Real MT5 account,Conto reale MT5,Real MT5 account
+real MT5 account,real MT5 account,real MT5 account,Cuenta MT5 real,akun MT5 riil,real MT5 account,conto reale MT5,real MT5 account
+Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5
+Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.
+Financial BVI,Financial BVI,Financial BVI,Financiera BVI,Financial BVI,Financial BVI,Finanziario BVI,Financial BVI
+Financial SVG,Financial SVG,Financial SVG,Financiera SVG,Finansial SVG,Financial SVG,Finanziario SVG,Financial SVG
+Synthetic BVI,Synthetic BVI,Synthetic BVI,Sintética BVI,Synthetic BVI,Synthetic BVI,Sintetico BVI,Synthetic BVI
+Synthetic SVG,Synthetic SVG,Synthetic SVG,Sintética SVG,Synthetic SVG,Synthetic SVG,Sintetico SVG,Synthetic SVG
+Licence no. IS/70156,Licence no. IS/70156,Licence no. IS/70156,Licencia nº IS/70156,Lisensi no. IS/70156,Licence no. IS/70156,licenza n. IS/70156,Licence no. IS/70156
+License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,Licencia nº SIBA/L/18/1114,License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,licenza n. SIBA/L/18/1114,License no. SIBA/L/18/1114
+cryptocurrency,cryptocurrency,cryptocurrency,cryptocurrency,mata uang kripto,cryptocurrency,cryptocurrency,cryptocurrency
+cryptocurrencies,cryptocurrencies,cryptocurrencies,cryptocurrencies,mata uang kripto,cryptocurrencies,cryptocurrencies,cryptocurrencies
+Cryptocurrencies,Cryptocurrencies,Cryptocurrencies,Cryptocurrencies,Mata uang kripto,Cryptocurrencies,Cryptocurrencies,Cryptocurrencies
 Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti,Узкие спреды
 Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale,Потенциальная прибыль
 Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale,Начальный депозит
