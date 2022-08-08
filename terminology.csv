@@ -56,7 +56,10 @@ Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Crash/Boom,Cra
 Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break,Range Break
 Step indices,Índices Step,Step indices,Índices step,Indeks Step,Step indices,Indici step,Индексы Step
 Swap charges,Taxa swap,Frais de swap,Cargos swap,Biaya swap,Swap charges,Imposte swap,Свопы
-Over-the-counter / over the counter (OTC),Over-the-counter / mercado de balcão (OTC),Over-the-counter / over the counter (OTC),Extrabursátil (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевой (m) / Внебиржевая (f) / Внебиржевое (ng) / Внебиржевые (plural)
+Over-the-counter / over the counter (OTC),Over-the-counter / mercado de balcão (OTC),Over-the-counter / over the counter (OTC),Extrabursátil (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевой (OTC)  (m) 
+Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевая (OTC)  (f)
+Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевое (OTC)  (ng)
+Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Over-the-counter / over the counter (OTC),Внебиржевые (OTC)  (plural)
 Deriv API,API Deriv,Deriv API,API Deriv,API Deriv,Deriv API,API Deriv,Deriv API
 Contracts,Contratos,Contrats,Contratos,Kontrak,Contracts,Contratti,Контракты
 Call/Put Spreads,Call/Put Spread,Call/Put Spreads,Call/Put Spreads,Spread Call/Put,Call/Put Spreads,Call/Put Spread,Колл/Пут спред
@@ -101,9 +104,14 @@ Point,Ponto,Point,Punto,Poin,Point,Punto,Пункт
 Fundamental analysis,Análise fundamental,Analyse fondamentale,Análisis fundamental,Analisis fundamental,Fundamental analysis,Analisi fondamentale,Фундаментальный анализ
 Technical analysis,Análise técnica,Analyse technique,Anáisis técnico,Analisis teknikal,Technical analysis,Analisi tecnico,Технический анализ
 Day trading,Day trade,Trading de jour,Operaciones diurnas,Trading harian,Day trading,Trading giornaliero,Дей-трейдинг
-Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero,Внутридневной (m)  / Внутридневная (f) / Внутридневное (ng)
+Intraday,Intraday,Intrajournalier,Intradía,Intraday,Intraday,Infragiornaliero,Внутридневной (m)
+Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Внутридневная (f)
+Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Внутридневное (ng)
+Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Intraday,Внутридневные (pl)
 Automated trading,Negociação automatizada,Trading automatisé,Operaciones automatizadas,Trading otomatis,Automated trading,Trading automatizzato,Автоматический трейдинг
-Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Giao dịch,Trade (n) / Far trading (v),Торговля (n) / Контракт (n - meaning contract) / Торговать (v)
+Trade,Operar,Trade,Operar (v) / Operación (n),Trading,Giao dịch,Trade (n) / Far trading (v),Торговля (n)
+Trade,Trade,Trade,Trade,Trade,Trade,Trade,Контракт (n - meaning contract)
+Trade,Trade,Trade,Trade,Trade,Trade,Trade,Торговать (v)
 Broker,Broker,Broker,Bróker,Broker,Broker,Broker,Брокер
 Contract,Contrato,Contrat,Contrato,Kontrak,Contract,Contratto,Контракт
 Market price,Preço de mercado,Prix de marché,Precio de mercado,Harga pasar,Market price,Prezzo di mercato,Рыночная цена
@@ -118,10 +126,16 @@ Deal cancellation,Cancelamento da transação,Deal cancellation,Cancelación del
 Non-refundable fee,Taxa não reembolsável,Frais non remboursables,Tarifa no reembolsable,Biaya yang tidak dapat dikembalikan,Non-refundable fee,Tassa non rimborsabile,Невозвратный сбор
 Loss,Perda,Perte,Pérdida,Rugi,Loss,Perdita,Убыток
 Net loss,Perda líquida,Perte nette,Pérdida neta,Kerugian bersih,Net loss,Perdita netta,Чистый убыток
-Volatile,Volátil,Volatile,Volátil,Fluktuatif,Volatile,Volatilità,Волатильный (m) / Волатильная (f) / Волатильное (ng) / Волатильные (pl)
+Volatile,Volátil,Volatile,Volátil,Fluktuatif,Volatile,Volatilità,Волатильный (m)
+Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Волатильная (f)
+Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Волатильное (ng)
+Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Volatile,Волатильные (pl)
 Liquidity,Liquidez,Liquidité,Liquidez,Liquiditas,Liquidity,Liquidità,Ликвидность
 Payment agent,Agente de pagamento,Agent de paiement,Agente de pago,Agen pembayaran,Payment agent,Agente di pagamento,Платежный агент
-Weighted,Ponderado,Pondéré,Ponderada,Bobot,Weighted,Ponderata,Взвешенный (m) / Взвешенная (f) / Взвешенное (ng) / Взвешенные (pl)
+Weighted,Ponderado,Pondéré,Ponderada,Bobot,Weighted,Ponderata,Взвешенный (m)
+Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Взвешенная (f)
+Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Взвешенное (ng)
+Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Weighted,Взвешенные (pl)
 Downtrend,Downtrend,Tendance à la baisse,Tendencia a la baja,Trend menurun,Downtrend,Tendenza al ribasso,Нисходящий тренд
 Flip,Flipagem,Flipping,Cambiar,Membalik,Flip,Flip,Кувырок / Флип
 Resistance level,Level de resistência,Niveau de résistance,Nivel de resistencia,Tingkat resistensi,Resistance level,Livello di resistenza,Уровень сопротивления
@@ -144,22 +158,28 @@ USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB,USD/RUB
 Jump Indices,Jump Indices,Jump Indices,Índices Jump,Indeks Jump,Jump Indices,Indici Jump,Индексы Jump
 Continuous indices,Continuous indices,Continuous indices,Índices contínuos,Indeks ,Continuous indices,Indici continui,Непрерывные индексы
 Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Nuestro sitio de seguimiento: t.deriv.com ,Our tracking site: t.deriv.com,Our tracking site: t.deriv.com,Il sito per il tracciamento: t.deriv.com ,Наш трекер: t.deriv.com
-Deposit,Deposit,Deposit,Depósito,Deposit,Deposit,Deposito,Deposit
-Withdrawal,Withdrawal,Withdrawal,Retiro,Withdrawal,Withdrawal,Prelievo,Withdrawal
-Swap rate,Swap rate,Swap rate,Tasa swap,Swap rate,Swap rate,Tasso swap,Swap rate
-Real MT5 account,Real MT5 account,Real MT5 account,Cuenta MT5 real,Akun MT5 riil,Real MT5 account,Conto reale MT5,Real MT5 account
-real MT5 account,real MT5 account,real MT5 account,Cuenta MT5 real,akun MT5 riil,real MT5 account,conto reale MT5,real MT5 account
+Deposit,Deposit,Deposit,Depósito,Deposit,Deposit,Deposito,Пополнение
+Withdrawal,Withdrawal,Withdrawal,Retiro,Withdrawal,Withdrawal,Prelievo,Вывод средств
+Swap rate,Swap rate,Swap rate,Tasa swap,Swap rate,Swap rate,Tasso swap,Ставка своп
+Real MT5 account,Real MT5 account,Real MT5 account,Cuenta MT5 real,Akun MT5 riil,Real MT5 account,Conto reale MT5,Реальный счет MT5
+real MT5 account,real MT5 account,real MT5 account,Cuenta MT5 real,akun MT5 riil,real MT5 account,conto reale MT5,реальный счет MT5
 Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5,Deriv MT5
 Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.,Deriv.
-Financial BVI,Financial BVI,Financial BVI,Financiera BVI,Financial BVI,Financial BVI,Finanziario BVI,Financial BVI
-Financial SVG,Financial SVG,Financial SVG,Financiera SVG,Finansial SVG,Financial SVG,Finanziario SVG,Financial SVG
-Synthetic BVI,Synthetic BVI,Synthetic BVI,Sintética BVI,Synthetic BVI,Synthetic BVI,Sintetico BVI,Synthetic BVI
+Financial BVI,Financial BVI,Financial BVI,Financiera BVI,Financial BVI,Financial BVI,Finanziario BVI,Финансовый BVI
+Financial SVG,Financial SVG,Financial SVG,Financiera SVG,Finansial SVG,Financial SVG,Finanziario SVG,Финансовый SVG
+Synthetic BVI,Synthetic BVI,Synthetic BVI,Sintética BVI,Synthetic BVI,Synthetic BVI,Sintetico BVI,Синтетический BVI
 Synthetic SVG,Synthetic SVG,Synthetic SVG,Sintética SVG,Synthetic SVG,Synthetic SVG,Sintetico SVG,Synthetic SVG
 Licence no. IS/70156,Licence no. IS/70156,Licence no. IS/70156,Licencia nº IS/70156,Lisensi no. IS/70156,Licence no. IS/70156,licenza n. IS/70156,Licence no. IS/70156
 License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,Licencia nº SIBA/L/18/1114,License no. SIBA/L/18/1114,License no. SIBA/L/18/1114,licenza n. SIBA/L/18/1114,License no. SIBA/L/18/1114
-cryptocurrency,cryptocurrency,cryptocurrency,cryptocurrency,mata uang kripto,cryptocurrency,cryptocurrency,cryptocurrency
-cryptocurrencies,cryptocurrencies,cryptocurrencies,cryptocurrencies,mata uang kripto,cryptocurrencies,cryptocurrencies,cryptocurrencies
-Cryptocurrencies,Cryptocurrencies,Cryptocurrencies,Cryptocurrencies,Mata uang kripto,Cryptocurrencies,Cryptocurrencies,Cryptocurrencies
+cryptocurrency,cryptocurrency,cryptocurrency,criptomoneda,mata uang kripto,cryptocurrency,criptovaluta,cryptocurrency
+cryptocurrencies,cryptocurrencies,cryptocurrencies,criptomonedas,mata uang kripto,cryptocurrencies,criptovalute,cryptocurrencies
+Cryptocurrencies,Cryptocurrencies,Cryptocurrencies,Criptomonedas,Mata uang kripto,Cryptocurrencies,Criptovalute,Cryptocurrencies
+prediction,prediction,prediction,predicción,analisa,prediction,previsione,prediction
+Prediction,Prediction,Prediction,Predicción,Analisa,Prediction,Previsione,Prediction
+predictions,predictions,predictions,predicciones,analisa,predictions,previsioni,predictions
+Predictions,Predictions,Predictions,Predicciones,Analisa,Predictions,Previsioni,Predictions
+Straight-through Processing (STP),Straight-through Processing (STP),Straight-through Processing (STP),Procesamiento directo (STP),Straight-through Processing (STP),Straight-through Processing (STP),Elaborazione diretta (STP),Straight-through Processing (STP)
+Ref. ID,Ref. ID,Ref. ID,ID de ref.,Ref. ID,Ref. ID,ID rifer.,Ref. ID
 Tight spreads,Spreads baixos,Spreads serrés,Spreads ajustados,Spread ketat,Tight spreads,Spread ridotti,Узкие спреды
 Potential profit,Lucro potencial,Bénéfice potentiel,Ganancia potencial,Potensi profit,Potential profit,Profitto potenziale,Потенциальная прибыль
 Initial deposit,Depósito inicial,Dépôt initial,Depósito inicial,Deposit awal,Initial deposit,Deposito iniziale,Начальный депозит
@@ -173,48 +193,55 @@ Flexible trade types,Tipos de negociação flexíveis,Types de trade flexibles,T
 Fast deposits,Depósitos rápidos,Dépôts rapides,Depósitos rápidos,Deposit cepat,Fast deposits,Depositi veloci,Быстрое пополнение счета
 The Deriv experience,Experimente Deriv,L'expérience Deriv,La experiencia Deriv,Pengalaman Deriv,The Deriv experience,L'esperienza Deriv,Опыт Deriv
 Automated trading at your fingertips,Negociação automatizada na ponta dos dedos,Le trading automatisé au bout de vos doigts,Operaciones automatizadas al alcance de tu mano,Trading otomatis di ujung jari Anda,Automated trading at your fingertips,Trading automatizzato e a portata di mano,Автоматический трейдинг у вас под рукой
-Minimise potential losses,Minimizar as perdas potenciais,Minimiser les pertes potentielles,Minimiza tus pérdidas potenciales,Minimalkan potensi kerugian,Minimise potential losses,Minimizza le perdite potenziali,Minimise potential losses
-"Expert, friendly support",Suporte amigável e especializado,Un soutien expert et amical,Asistencia experta y amigable,"Ahli, support yang ramah","Expert, friendly support",Supporto professionale e sempre a disposizione,"Expert, friendly support"
+Minimise potential losses,Minimizar as perdas potenciais,Minimiser les pertes potentielles,Minimiza tus pérdidas potenciales,Minimalkan potensi kerugian,Minimise potential losses,Minimizza le perdite potenziali,Минимизируйте возможные потери
+"Expert, friendly support",Suporte amigável e especializado,Un soutien expert et amical,Asistencia experta y amigable,"Ahli, support yang ramah","Expert, friendly support",Supporto professionale e sempre a disposizione,Опытная служба поддержки
 Unlimited virtual funds,Fundos virtuais ilimitados,Fonds virtuels illimités,Fondos virtuales ilimitados,Dana virtual tanpa batas,Unlimited virtual funds,Fondi virtuali ilimitati,Неограниченные виртуальные средства
-Supported payment methods,Métodos de pagamento disponíveis,Méthodes de paiement prises en charge,Métodos de pago aceptados,Metode pembayaran yang teresedia,Supported payment methods,Modalità di pagamento disponibili,Supported payment methods
-Increase your market exposure,Aumentar sua exposição no mercado,Augmentez votre visibilité sur le marché,Incrementa tu exposición al mercado,Tingkatkan eksposur pasar Anda.,Increase your market exposure,Aumenta l'esposizione sul mercato,Increase your market exposure
-Go long or short,Vá de long ou short,Aller long ou court,Ir en largo o en corto,Beli atau jual,Go long or short,Apri una posizione long o short,Go long or short
+Supported payment methods,Métodos de pagamento disponíveis,Méthodes de paiement prises en charge,Métodos de pago aceptados,Metode pembayaran yang teresedia,Supported payment methods,Modalità di pagamento disponibili,Поддерживаемые платежные методы
+Increase your market exposure,Aumentar sua exposição no mercado,Augmentez votre visibilité sur le marché,Incrementa tu exposición al mercado,Tingkatkan eksposur pasar Anda.,Increase your market exposure,Aumenta l'esposizione sul mercato,Увеличьте рыночное присутствие
+Go long or short,Vá de long ou short,Aller long ou court,Ir en largo o en corto,Beli atau jual,Go long or short,Apri una posizione long o short,Длинные и короткие позиции
 Popular cryptocurrencies,Criptomoedas mais populares,Cryptomonnaies populaires,Criptomonedas populares,Mata uang kripto populer,Popular cryptocurrencies,Criptovalute principali,Популярные криптовалюты
 Anticipate price movements,Antecipar movimentos de preço,Anticiper les mouvements de prix,Anticipa los movimientos de precio,Antisipasi pergerakan harga,Anticipate price movements,Anticipa i movimento dei prezzi,Прогнозируйте движения цен
 Liquid currencies,Moedas com liquidez,Devises liquides,Monedas líquidas,Mata uang likuid,Liquid currencies,Valute liquide,Ликвидные валюты
-Amplify your potential profit,Ampliando seu lucro potencial,Amplifiez votre profit potentiel,Amplifica tu ganancia potencial,Perkuat potensi keuntungan,Amplify your potential profit,Ampifica il profitto potenziale,Amplify your potential profit
+Amplify your potential profit,Ampliando seu lucro potencial,Amplifiez votre profit potentiel,Amplifica tu ganancia potencial,Perkuat potensi keuntungan,Amplify your potential profit,Ampifica il profitto potenziale,Увеличьте потенциальную прибыль
 Fixed payout,Pagamento fixo ,Paiement fixe,Pago fijo,Hasil tetap,Fixed payout,Guadagno fisso,Фиксированная выплата
 Minimal capital investment,Investimento de capital mínimo,Investissement en capital minimal,Inversión de capital mínimo,Investasi modal minimal,Minimal capital investment,Investimento di capitale minimo,Минимальные капиталовложения
-Predict the outcome,Prever o resultado,Prédire le résultat,Predice el resultado,Menganalisa hasil,Predict the outcome,Prevedi il risultato,Predict the outcome
-Earn a payout,Ganhe um pagamento,Obtenez un paiement,Obtén un pago,Dapatkan hasil,Earn a payout,Ottieni un guadagno,Earn a payout
+Predict the outcome,Prever o resultado,Prédire le résultat,Predice el resultado,Menganalisa hasil,Predict the outcome,Prevedi il risultato,Прогнозировать результат
+Earn a payout,Ganhe um pagamento,Obtenez un paiement,Obtén un pago,Dapatkan hasil,Earn a payout,Ottieni un guadagno,Зарабатывать выплату
 Instant access,Acesso instantâneo,Accès instantané,Acceso instantáneo,Akses cepat,Instant access,Accesso istantaneo,Мгновенный доступ
 Minimal capital requirements,Requisitos mínimos de capital,Exigences minimales en matière de capital,Requisitos de capital mínimo,Persyaratan modal minimal,Minimal capital requirements,Requisito di capitale minimo,Минимальные требования к капиталу
 User-friendly platforms,Plataformas fáceis de usar ,Des plateformes conviviales,Plataformas fáciles de usar,Platform yang mudah digunakan,User-friendly platforms,Piattaforme dal facile utilizzo,Удобные платформы
 Powerful chart technology,A poderosa tecnologia de gráficos,Une technologie graphique puissante,Tecnología de gráficos potente,Teknologi chart yang luar biasa,Powerful chart technology,Tecnologia per i grafici di alto livello,Мощные графические инструменты
-Trade on world events,Negociar em eventos mundiais,Tradez sur les événements mondiaux,Opere en eventos mundiales,Bertrading pada acara dunia.,Trade on world events,Fai trading su eventi mondiali,Торгуйте на мировых событиях (trade - v) / Торговля на мировых событиях (trade - n)
+Trade on world events,Negociar em eventos mundiais,Tradez sur les événements mondiaux,Opere en eventos mundiales,Bertrading pada acara dunia.,Trade on world events,Fai trading su eventi mondiali,Торгуйте на мировых событиях (trade - v)
+Trade on world events,Trade on world events,Trade on world events,Trade on world events,Trade on world events,Trade on world events,Trade on world events,Торговля на мировых событиях (trade - n)
 Risk management,Gerenciamento de riscos,Gestion des risques,Gestión del riesgo,Manajemen risiko,Risk management,Gestione del rischio,Управление рисками
-"Secure, responsive platform",Plataforma segura e responsiva,Plate-forme sécurisée et réactive,Plataforma segura y dinámica,Platform yang aman dan responsif,"Secure, responsive platform",Piattaforma versatile e sicura,"Secure, responsive platform"
-Increased market exposure,Maior exposição ao mercado,Une exposition accrue au marché,Exposición al mercado aumentada,Peningkatan eksposur pasar,Increased market exposure,Maggiore esposizione sul mercato,Increased market exposure
+"Secure, responsive platform",Plataforma segura e responsiva,Plate-forme sécurisée et réactive,Plataforma segura y dinámica,Platform yang aman dan responsif,"Secure, responsive platform",Piattaforma versatile e sicura,"Безопасная, гибкая платформа"
+Increased market exposure,Maior exposição ao mercado,Une exposition accrue au marché,Exposición al mercado aumentada,Peningkatan eksposur pasar,Increased market exposure,Maggiore esposizione sul mercato,Расширенное рыночное присутствие
 Optional parameters,Parâmetros opcionais,Paramètres facultatifs,Parámetros opcionales,Parameter opsional,Optional parameters,Parametri opzionali,Дополнительные параметры
-Customise the parameters,Personalizar os parâmetros,Personnalisez les paramètres,Personaliza los parámetros,Sesuaikan parameter ,Customise the parameters,Personalizza i parametri,Customise the parameters
-Award-winning platforms,Plataformas premiadas,Des plateformes primées,Plataformas galardonadas,Platform pemenang penghargaan,Award-winning platforms,Piattaforme pluripremiate,Award-winning platforms
+Customise the parameters,Personalizar os parâmetros,Personnalisez les paramètres,Personaliza los parámetros,Sesuaikan parameter ,Customise the parameters,Personalizza i parametri,Настраивать параметры
+Award-winning platforms,Plataformas premiadas,Des plateformes primées,Plataformas galardonadas,Platform pemenang penghargaan,Award-winning platforms,Piattaforme pluripremiate,Отмеченные наградами платформы
 All-in-one trading platform,Plataforma de negociação tudo em um,Plateforme de trading tout-en-un,Plataforma de operación todo en uno,Platform trading CFD semua dalam satu,All-in-one trading platform,La piattaforma di trading completa,Универсальная торговая платформа
 Multiple asset classes,Múltiplas classes de ativos,Classes d'actifs multiples,Múltiples clases de activos,Akses ke berbagai jenis aset ,Multiple asset classes,Molteplici classi di asset,Несколько классов активов
 Innovative trade types,Tipos de negociação inovadores,Types de trades innovants,Tipos de operación innovadores,Jenis trading inovatif,Innovative trade types,Tipologie di trading innovative,Инновационные виды контрактов
 New and experienced traders,Trader iniciantes e experientes,Traders débutants et expérimentés,Traders nuevos y expertos,Trader pemula dan berpengalaman ,New and experienced traders,Trader esperti e quelli alle prime armi,Начинающие и опытные трейдеры
-Licensed and regulated,Licenciada e regulamentada,Sous licence et réglementé,Autorizada y regulada,Berlisensi dan diatur,Licensed and regulated,Autorizzata e regolamentata,Лицензирован и регулируется (m) / Лицензирована и регулируется (f) / Лицензированы и регулируются (pl)
+Licensed and regulated,Licenciada e regulamentada,Sous licence et réglementé,Autorizada y regulada,Berlisensi dan diatur,Licensed and regulated,Autorizzata e regolamentata,Лицензирован и регулируется (m)
+Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Лицензирована и регулируется (f)
+Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Licensed and regulated,Лицензированы и регулируются (pl)
 Quick sign-up,Registro rápido,Inscription rapide,Registro rápido,Pendaftaran cepat,Quick sign-up,Registrazione veloce,Быстрая регистрация
-Proprietary synthetic indices,Próprios índices sintéticos,Indices synthétiques exclusifs,Índices sintéticos propios,Indeks sintetis eksklusif,Proprietary synthetic indices,I nostri indici sintetici,Proprietary synthetic indices
-Regulated industry pioneer,Pioneiro do setor regulamentado,Pionnier du secteur réglementé,Pionero regulado en la industria,Pelopor industri yang diatur,Regulated industry pioneer,Società autorizzata pionera nel settore,Regulated industry pioneer
+Proprietary synthetic indices,Próprios índices sintéticos,Indices synthétiques exclusifs,Índices sintéticos propios,Indeks sintetis eksklusif,Proprietary synthetic indices,I nostri indici sintetici,Собственные синтетические индексы
+Regulated industry pioneer,Pioneiro do setor regulamentado,Pionnier du secteur réglementé,Pionero regulado en la industria,Pelopor industri yang diatur,Regulated industry pioneer,Società autorizzata pionera nel settore,Лицензированный пионер индустрии
 Practise trading,Pratique negociações,Entraînez-vous au trading,Practica el trading,Berlatih trading,Practise trading,Fai pratica con il trading,Потренируйтесь в трейдинге
-Take control of your trades,Assuma o controle de suas negociações,Prenez le contrôle de vos trades,Toma el control de tus operaciones,Kendalikan trading Anda,Take control of your trades,Mantieni il controllo sui tuoi trade,Take control of your trades
-Increase your returns,Aumentar seus retornos,Augmentez vos rendements,Incrementa tu rendimiento,Tingkatkan keuntungan Anda,Increase your returns,Aumenta i ritorni,Increase your returns
-Trade on the world markets,Negocie em mercados mundiais,Tradez sur les marchés mondiaux,Opera en los mercados mundiales,Trading di pasar dunia,Trade on the world markets,Fai trading sui mercati mondiali,Trade on the world markets
+Take control of your trades,Assuma o controle de suas negociações,Prenez le contrôle de vos trades,Toma el control de tus operaciones,Kendalikan trading Anda,Take control of your trades,Mantieni il controllo sui tuoi trade,Эффективное управление контрактами
+Increase your returns,Aumentar seus retornos,Augmentez vos rendements,Incrementa tu rendimiento,Tingkatkan keuntungan Anda,Increase your returns,Aumenta i ritorni,Увеличьте свою прибыль
+Trade on the world markets,Negocie em mercados mundiais,Tradez sur les marchés mondiaux,Opera en los mercados mundiales,Trading di pasar dunia,Trade on the world markets,Fai trading sui mercati mondiali,Трейдинг на мировых рынках (trade - n)
+Trade on the world markets,Trade on the world markets,Trade on the world markets,Trade on the world markets,Trade on the world markets,Trade on the world markets,Trade on the world markets,Торгуйте на мировых рынках (trade - v)
 No swap charges,Não pague taxas de swap,Pas de frais de swap,Sin cargos swap,Tanpa biaya swap,No swap charges,Nessun imposti swap,Никаких свопов
 Multi-asset trading platform,Plataformas de negociação de múltiplos ativos,Plate-forme de trading avec de multiples actifs,Plataforma de operación con múltiples activos,Platform trading multi-aset,Multi-asset trading platform,Piattaforma multi-asset per il trading,Мульти-активная торговая платформа
-Versatile trading experience,Experiência de negociação versátil,Une expérience de trading polyvalente,Experiencia de operación versátil,Pengalaman trading serbaguna,Versatile trading experience,Esperienza versatile di trading,Versatile trading experience
+Versatile trading experience,Experiência de negociação versátil,Une expérience de trading polyvalente,Experiencia de operación versátil,Pengalaman trading serbaguna,Versatile trading experience,Esperienza versatile di trading,Универсальный торговый опыт
 Customise your trading environment,Personalize seu ambiente de negociação,Personnalisez votre environnement de trading,Personaliza tu entorno de operación,Sesuaikan trading Anda dengan mudah,Customise your trading environment,Personalizza il tuo spazio di trading,Настройте свою торговую среду
-Built to fit your trading style,Construída para se adequar ao seu estilo de negociação,Conçu pour s'adapter à votre style de trading,Construido para adaptarse a tu estilo de operación,Disesuaikan dengan gaya trading Anda,Built to fit your trading style,Pensata per adattarsi al tuo stile di trading,Built to fit your trading style
+Built to fit your trading style,Construída para se adequar ao seu estilo de negociação,Conçu pour s'adapter à votre style de trading,Construido para adaptarse a tu estilo de operación,Disesuaikan dengan gaya trading Anda,Built to fit your trading style,Pensata per adattarsi al tuo stile di trading,Создан под ваш стиль торговли (m)
+Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Создана под ваш стиль торговли (f)
+Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Создано под ваш стиль торговли (ng)
+Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Built to fit your trading style,Созданы под ваш стиль торговли (pl)
 Multiple markets on a single platform,Vários mercados em uma única plataforma,Plusieurs marchés sur une seule plateforme,Múltiples mercados en una única plataforma,Berbagai pilihan pasar dalam satu platform,Multiple markets on a single platform,Mercati diversi su un'unica piattaforma,Несколько рынков на одной платформе
 Bespoke trading experience,Experiência de negociação personalizada,Expérience de trading sur mesure,Experiencia de operación a medida,Pengalaman trading yang diciptakan secara khusus,Bespoke trading experience,Esperienza di trading personalizzata,Индивидуальный торговый опыт
 Intuitive tools,Ferramentas intuitivas,Outils intuitifs,Herramientas intuitivas,Peralatan yang intuitif,Intuitive tools,Strumenti intuitivi,Интуитивно понятные инструменты
@@ -222,19 +249,26 @@ Feature-rich charts,Gráficos ricos em recursos,Graphiques riches en fonctionnal
 Trading made simple,Ficou mais fácil negociar,Le trading en toute simplicité,Trading simplificado,Trading dengan mudah,Trading made simple,Il trading non è mai stato cosí semplice,Трейдинг может быть простым
 Flexible trade duration,Duração flexível de negociação,Durée de trading flexible,Duración de operación flexible,Durasi trading yang fleksibel,Flexible trade duration,Durata flessibile del trade,Гибкие настройки длительности
 Make smarter trading decisions,Tome decisões de negociação mais inteligentes,Prenez des décisions de trading plus avisées,Tome decisiones de operación inteligentes,Membuat keputusan trading yang lebih cerdas,Make smarter trading decisions,Rendi vincenti le tue scelte di trading,Принимайте более разумные торговые решения
-"Trade what you want, when you want","Negocie o que você quiser, quando quiser"," Tradez ce que vous voulez, quand vous le voulez","Opera lo que quieras, cuando quieras","Bertrading apa saja, kapan saja yang Anda inginkan","Trade what you want, when you want","Scegli tu cosa, quando","Trade what you want, when you want"
-"Start trading whenever, wherever you want",Comece a negociar quando e onde quiser,Commencez à trader quand et où vous voulez,"Empieza a operar donde quieras, cuando quieras","Mulai bertrading kapan pun, di mana pun","Start trading whenever, wherever you want","Inizia a fare trading dove vuoi, quando vuoi","Start trading whenever, wherever you want"
+"Trade what you want, when you want","Negocie o que você quiser, quando quiser"," Tradez ce que vous voulez, quand vous le voulez","Opera lo que quieras, cuando quieras","Bertrading apa saja, kapan saja yang Anda inginkan","Trade what you want, when you want","Scegli tu cosa, quando",Торгуйте чем хотите и когда хотите
+"Start trading whenever, wherever you want",Comece a negociar quando e onde quiser,Commencez à trader quand et où vous voulez,"Empieza a operar donde quieras, cuando quieras","Mulai bertrading kapan pun, di mana pun","Start trading whenever, wherever you want","Inizia a fare trading dove vuoi, quando vuoi",Торгуйте в любое время и в любом месте
 User-friendly features,Recursos fáceis de usar,Fonctions faciles à utiliser,Características fáciles de usar,Fitur yang mudah digunakan,User-friendly features,Funzionalità facili da usare,Удобные функции
-Round the clock,24 horas por dia,Jour et nuit,A cualquier hora,Trading sepanjang waktu,Round the clock,24 ore su 24,Круглосуточно (adv) / Круглосуточный (adj - m) / Круглосуточная (adj - f)
+Round the clock,24 horas por dia,Jour et nuit,A cualquier hora,Trading sepanjang waktu,Round the clock,24 ore su 24,Круглосуточно (adv)
+Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Круглосуточный (adj - m)
+Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Round the clock,Круглосуточная (adj - f)
 Easy access,Fácil acesso,Facile d'accès,Fácil acceso,Akses mudah,Easy access,Accesso veloce,Легкий доступ
 Trading on the go,Negociação em qualquer lugar,Tradez en toute liberté,Trading portátil,Trading dimana saja,Trading on the go,Trading ovunque tu sia,Мобильный трейдинг
 Risk appetite,Apetite de risco,Appétit pour le risque,Apetito de riesgo,Selera risiko,Risk appetite,Propensione al rischio,Аппетит к риску
-Trader sentiment,Sentimento do negociante,Sentiment de trader,Sentimiento de trader,Sentimen trader,Trader sentiment,Sentimento dei trader,Trader sentiment
+Trader sentiment,Sentimento do negociante,Sentiment de trader,Sentimiento de trader,Sentimen trader,Trader sentiment,Sentimento dei trader,Настроения трейдера (sng)
+Trader sentiment,Trader sentiment,Trader sentiment,Trader sentiment,Trader sentiment,Trader sentiment,Trader sentiment,Настроения трейдеров (pl)
 Economic slowdown,A desaceleração econômica,Ralentissement économique,Desaceleración económica,Perlambatan ekonomi,Economic slowdown,Rallentamento economico,Экономический спад
-Gain traction,Ganho de tração,Gagnez de la vitesse,Ganar tracción,Dapatkan daya tarik,Gain traction,Ottieni trazione,Gain traction
-Fund your account,Deposite na sua conta,Déposez des fonds dans votre compte,Depositar fondos en tu cuenta,Danai akun Anda,Fund your account,Deposite fondi sul suo conto,Fund your account
-Cryptographically secure,Criptograficamente seguro,Cryptographiquement sécurisé,Criptográficamente seguro,Aman secara kriptografis,Cryptographically secure,Protetto con criptografia,Криптографически безопасный (m) / Криптографически безопасная (f) / Криптографически безопасный (ng) / Криптографически безопасные (pl)
-Simulate real-world market movements,Simulam movimentos de mercado do mundo real,Simule les mouvements réels du marché,Simular los movimientos de los mercados del mundo real,Mensimulasikan pergerakan pasar nyata,Simulate real-world market movements,Simulano i movimenti del mercato del mondo reale,Симулирует движения реального рынка (sng) / Симулируют движдвижения реального рынка (pl)
+Gain traction,Ganho de tração,Gagnez de la vitesse,Ganar tracción,Dapatkan daya tarik,Gain traction,Ottieni trazione,Набирать обороты
+Fund your account,Deposite na sua conta,Déposez des fonds dans votre compte,Depositar fondos en tu cuenta,Danai akun Anda,Fund your account,Deposite fondi sul suo conto,Пополнить свой счет
+Cryptographically secure,Criptograficamente seguro,Cryptographiquement sécurisé,Criptográficamente seguro,Aman secara kriptografis,Cryptographically secure,Protetto con criptografia,Криптографически безопасный (m)
+Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Криптографически безопасная (f)
+Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Криптографически безопасный (ng)
+Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Cryptographically secure,Криптографически безопасные (pl)
+Simulate real-world market movements,Simulam movimentos de mercado do mundo real,Simule les mouvements réels du marché,Simular los movimientos de los mercados del mundo real,Mensimulasikan pergerakan pasar nyata,Simulate real-world market movements,Simulano i movimenti del mercato del mondo reale,Симулирует движения реального рынка (sng)
+Simulate real-world market movements,Simulate real-world market movements,Simulate real-world market movements,Simulate real-world market movements,Simulate real-world market movements,Simulate real-world market movements,Simulate real-world market movements,Симулируют движения реального рынка (pl)
 Know Your Customer (KYC),Know Your Customer (KYC),Know Your Customer (KYC),Conoce a tu cliente (KYC),Kenali Pelanggan Anda (KYC),Know Your Customer (KYC),Know-your-customer (KYC),Знай своего клиента (KYC)
 Proof of identity (POI),Comprovante de identidade (POI),Document d'identité (POI),Prueba de identidad (POI),Bukti identitas (POI),Proof of identity (POI),Verifica dell'identità (POI),Подтверждение личности (POI)
 Proof of address (POA),Comprovante de endereço (POA),Justificatif de domicile (POA),Prueba de dirección (POA),Bukti alamat (POA),Proof of address (POA),Verifica dell'indirizzo (POA),Подтверждение адреса (POA)
