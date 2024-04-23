@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Trigger workflow update on change of terminology
-        uses: frdrwrt/write-to-file@v1.3
+        uses: frdrwrt/write-to-file@89c5761ba721d62b757edeefe02028e388885ab5
         with:
           # The filename you want to store as csv
           filepath: terminology.csv
